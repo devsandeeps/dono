@@ -12,6 +12,8 @@
     {squarespace-headers}
 
     <squarespace:script src="site.js" combo="true" />
+	<squarespace:script src="jquery-1.9.1.min" combo="true" />
+	
 
   </head>
 
