@@ -1,0 +1,8 @@
+
+<div class="PageContent_Wrapper">
+  <div class="PageContent_Content">
+    <div class="PageContent_Content_Page"> 
+    {squarespace.main-content}
+    </div>
+  </div>
+</div>
