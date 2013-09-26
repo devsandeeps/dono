@@ -92,6 +92,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .Address_Block{display:none;}
    .Search_Block{display:none;}
    .FollowUs_Block{display:none;}
+   .header_wrapper {padding-top: 100px;}
 } 
 
 /* iPhone Landscape */
@@ -103,6 +104,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .Address_Block{display:none;}
    .Search_Block{display:none;}
    .FollowUs_Block{display:none;}
+   .header_wrapper {padding-top: 100px;}
 }
 
 /* iPad Portrait */
