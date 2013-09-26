@@ -70,7 +70,8 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 .div_MainNavigation_MobileIpad a{text-decoration:none;font-size:18px;line-height:30px;color:#fff;}
 .div_MainNavigation_MobileIpad li:first-child{padding-left:19px;}
 .div_MainNavigation_MobileIpad li.ChildNav_Mobile:first-child{padding-left:0px;}
-.div_MainNavigation_MobileIpad .ParentNav_Mobile:before {content: '+';font-size:14px;line-height:20px;color:#fff;margin-right:12px;}
+.div_MainNavigation_MobileIpad .ParentNav_Mobile.:before {content: '+';font-size:14px;line-height:20px;color:#fff;margin-right:12px;}
+.div_MainNavigation_MobileIpad .ParentNav_Mobile.expanded:before {content: '-'!important;}
 .div_MainNavigation_MobileIpad .ChildNav_Mobile{display:none;}
 
 
