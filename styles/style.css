@@ -27,8 +27,8 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 .header_Fixed_content{max-width:1280px;width:100%;margin:0 auto;position:relative;}
 .Logo_Block{position:absolute;}
 .Address_Block{position:absolute;right:500px;top:13px;width:140px;height:90px;}
-.Search_Block{position:absolute;right:227px;top:13px;width:248px;height:90px;}
-.FollowUs_Block{position:absolute;right:0px;top:13px;width:208px;height:90px;}
+.Search_Block{position:absolute;right:200px;top:13px;width:248px;height:90px;}
+.FollowUs_Block{position:absolute;right:0px;top:13px;width:181px;height:90px;}
 
 .Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
 
