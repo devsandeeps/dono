@@ -1,7 +1,9 @@
 <!--FOOTER WITH OPEN BLOCK FIELD-->
 
-  <footer id="footer">
-    <squarespace:block-field id="footer_Row1-Column1" columns="1"/>
+  <footer id="footer_wrapper">
+    <div class="footer_content">
+      <squarespace:block-field id="footer_Row1-Column1" columns="1"/>
+    </div>
   </footer>
 
     <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
