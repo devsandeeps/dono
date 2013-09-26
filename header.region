@@ -27,6 +27,15 @@
 				<div class="Logo_Block">
 					{.section website}<h1 data-content-field="site-title"><a href="/">{.section logoImageUrl}<img src="{logoImageUrl}?format=original" alt="{siteTitle}" />{.or}{siteTitle}{.end}</a></h1>{.section siteTagLine}<p style='display:none;'>{@}</p>{.end}{.end}
 				</div>
+				<div class="Address_Block">
+					<squarespace:block-field id="Header_Address_Block" columns="1"/>
+				</div>
+				<div class="Search_Block">
+					<squarespace:block-field id="Header_Search_Block" columns="1"/>
+				</div>
+				<div class="FollowUs_Block">
+					Follow Us
+				</div>
 		</div>
 	</div>
 
