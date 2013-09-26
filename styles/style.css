@@ -80,7 +80,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPad Portrait */
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
-   .Address_Block {right: 328px;}
+   .Address_Block {right: 255px;top: 56px;width: 190px;}
 }
 
 /* iPad Landscape */
