@@ -27,7 +27,7 @@ body{width:100%!important;max-width:100%!important;background:#000!important;mar
 .Search_Block{position:absolute;right:228px;top:13px;width:248px;height:90px;}
 .FollowUs_Block{position:absolute;right:0px;top:13px;width:208px;height:90px;}
 
-.Address_Block p{color: #aaa;font-size:18px;line-height:22px;margin:0px;padding:0px;}
+.Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
 
 #Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;background:url(/assets/images/Search_Play.png) no-repeat 218px 4px;}
 #Header_Search_Block .title{padding: 6px 12px 6px 45px;color: #aaa;border-color:#535353;background:url(/assets/images/searchIcon.png) no-repeat 15px 50%;background-position: 5px 6px;
