@@ -1,4 +1,4 @@
-body{}
+body{width:100%!important;max-width:100%!important;background:#000!important;margin:0px!important;padding:0px!important;}
 
 .div_MainNavigation_MobileIpad{display:none;}
 .div_MainNavigation_Web{display:block;}
