@@ -86,6 +86,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPhone Portrait */
 @media screen and (max-width: 480px) and (orientation:portrait) 
 {
+    .header_Fixed{position: relative;}
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
    .Logo_Block{position: relative;text-align: center;}
@@ -99,6 +100,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPhone Landscape */
 @media screen and (max-width: 480px) and (orientation:landscape) 
 {
+    .header_Fixed{position: relative;}
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
    .Logo_Block{position: relative;text-align: center;}
