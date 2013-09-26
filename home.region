@@ -1,0 +1,6 @@
+<div class="Banner_Image"  style="background:url({fullUrl}?format=5000w) no-repeat;">
+  
+</div>
+<div class="PageContent_Wrapper">
+  {squarespace.main-content}
+</div>
