@@ -18,7 +18,7 @@
   </head>
 
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
-
+  <div class="header_wrapper">
     <header id="header">
 	<div class="div_MainNavigation_MobileIpad">
 	<a href="javascript:void(1);" onclick="ShowHideMobileMenu();" class="Menu_Icon"></a>
@@ -54,6 +54,7 @@
 	  	</div>
 
     </header>
+	</div>
 
 
     
