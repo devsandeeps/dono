@@ -20,14 +20,8 @@
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
   <div class="header_wrapper">
     <header id="header">
-	<div class="div_MainNavigation_MobileIpad">
-	<a href="javascript:void(1);" onclick="ShowHideMobileMenu();" class="Menu_Icon"></a>
-		 <a href="javascript:void(1);" onclick="ShowHideMobileMenu();">Menu</a>
-		 <ul>
-		 </ul>
-
-	</div>
-
+	
+	<div class="header_Fixed">
       <!--SITE TITLE OR LOGO-->
 
       {.section website}
@@ -46,9 +40,15 @@
         <!--SITE TAGLINE-->
         {.section siteTagLine}<p style='display:none;'>{@}</p>{.end}
       {.end}
-
+	  </div>
         <!--MAIN NAVIGATION-->
-		 
+		 <div class="div_MainNavigation_MobileIpad">
+			<a href="javascript:void(1);" onclick="ShowHideMobileMenu();" class="Menu_Icon"></a>
+			<a href="javascript:void(1);" onclick="ShowHideMobileMenu();">Menu</a>
+		 <ul>
+		 </ul>
+
+		</div>
 		<div class="div_MainNavigation_Web">
 			<squarespace:navigation navigationId="mainNav" template="navigation" />
 	  	</div>
