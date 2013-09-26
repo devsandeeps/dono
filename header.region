@@ -22,11 +22,14 @@
     <header id="header">
 	
 	<div class="header_Fixed">
-      <!--SITE TITLE OR LOGO-->
-		<div class="Logo_Block">
-			{.section website}<h1 data-content-field="site-title"><a href="/">{.section logoImageUrl}<img src="{logoImageUrl}?format=original" alt="{siteTitle}" />{.or}{siteTitle}{.end}</a></h1>{.section siteTagLine}<p style='display:none;'>{@}</p>{.end}{.end}
+		<div class="header_Fixed_content">
+				<!--SITE TITLE OR LOGO-->
+				<div class="Logo_Block">
+					{.section website}<h1 data-content-field="site-title"><a href="/">{.section logoImageUrl}<img src="{logoImageUrl}?format=original" alt="{siteTitle}" />{.or}{siteTitle}{.end}</a></h1>{.section siteTagLine}<p style='display:none;'>{@}</p>{.end}{.end}
+				</div>
 		</div>
 	</div>
+
         <!--MAIN NAVIGATION-->
 		 <div class="div_MainNavigation_MobileIpad">
 			<a href="javascript:void(1);" onclick="ShowHideMobileMenu();" class="Menu_Icon"></a>
