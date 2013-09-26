@@ -19,7 +19,7 @@
 
 body{width:100%!important;max-width:100%!important;background:#000!important;margin:0px!important;padding:0px!important;font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 
-.header_wrapper{width:100%;max-width:1280px;margin:0 auto;}
+.header_wrapper{width:100%;max-width:1280px;margin:0 auto;padding-top:120px;}
 .header_Fixed{position: fixed;top: 0px;height: 100px;background: #222;left: 0;width: 100%;margin: auto;z-index: 1000;-webkit-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);-moz-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);}
 
 a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-o-transition: color 0.4s ease-out;transition: color 0.4s ease-out;}
