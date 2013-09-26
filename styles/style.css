@@ -103,7 +103,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .div_MainNavigation_Web{display:none;}
    .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none;}
-   .Search_Block{display: block;top: 88px;}
+   .Search_Block{display: block;top: 88px;width:155px;}
    .FollowUs_Block{display: block;top: 88px;}
    .FollowUs_Block p{display:none;}
    .header_wrapper {padding-top: 100px;}
