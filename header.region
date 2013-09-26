@@ -34,7 +34,7 @@
 					<squarespace:block-field id="Header_Search_Block" columns="1"/>
 				</div>
 				<div class="FollowUs_Block">
-					Follow Us
+					<squarespace:block-field id="Header_Follow Us_Block" columns="1"/>
 				</div>
 				<div class="clear"></div>
 		</div>
