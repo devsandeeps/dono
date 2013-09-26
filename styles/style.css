@@ -68,6 +68,10 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 {
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
+   .Logo_Block{margin:0 auto;}
+   .Address_Block{display:none;}
+   .Search_Block{display:none;}
+   .FollowUs_Block{display:none;}
 } 
 
 /* iPhone Landscape */
@@ -75,6 +79,10 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 {
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
+   .Logo_Block{margin:0 auto;}
+   .Address_Block{display:none;}
+   .Search_Block{display:none;}
+   .FollowUs_Block{display:none;}
 }
 
 /* iPad Portrait */
