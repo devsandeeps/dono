@@ -1,8 +1,6 @@
 <nav id="main-navigation" data-content-field="navigation-mainNav">
   <ul class="folder-parent">
-    <li class="Nav_LogoHome">
-      <a href="/"></a>
-    </li>
+   
     {.repeated section items}
 
     <li class="{.section active} active-link{.end}{.if folderActive} active-folder{.end}">
