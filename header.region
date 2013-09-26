@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+  <head>
+
+    <meta charset="utf-8"></meta>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"></meta>
+	<link href='https://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cinzel' rel='stylesheet' type='text/css'>
+
+    {squarespace-headers}
+
+    <squarespace:script src="site.js" combo="true" />
+
+  </head>
+
+  <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+
+    <header id="header">
+	<div class="div_MainNavigation_MobileIpad">
+	<a href="javascript:void(1);" onclick="ShowHideMobileMenu();" class="Menu_Icon"></a>
+		 <a href="javascript:void(1);" onclick="ShowHideMobileMenu();">Menu</a>
+		 <ul>
+		 </ul>
+
+	</div>
+      {.section website}
+        <!--SITE TAGLINE-->
+        {.section siteTagLine}<p style='display:none;'>{@}</p>{.end}
+      {.end}
+
+        <!--MAIN NAVIGATION-->
+		 
+		<div class="div_MainNavigation_Web">
+			<squarespace:navigation navigationId="mainNav" template="navigation" />
+	  	</div>
+	
+      </header>
+
+   
