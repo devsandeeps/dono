@@ -23,6 +23,7 @@ body{width:100%!important;max-width:100%!important;background:#000!important;mar
 .div_MainNavigation_MobileIpad{display:none;}
 .div_MainNavigation_Web{display:block;background-color: #464242;margin: 20px auto 40px auto !important;padding: 3px 0px !important;-webkit-border-top-left-radius: 5px;-moz-border-top-left-radius: 5px;border-top-left-radius: 5px;-webkit-border-top-right-radius: 5px;-moz-border-top-right-radius: 5px;border-top-right-radius: 5px;border-top: 2px solid #5A5453;text-align: center !important;}
 .div_MainNavigation_Web ul.folder-parent{margin:0px;padding:0px;list-style:none;}
+.div_MainNavigation_Web ul.folder-parent li{position:relative;}
 .div_MainNavigation_Web ul.folder-parent li a{text-transform: uppercase;letter-spacing: 1px !important;padding: 0.5em;display: inline-block;color: #fff;line-height: 18px;font-size: 18px;text-decoration:none;}
 .div_MainNavigation_Web li a:hover{color:#CCAC45!important;}
 .div_MainNavigation_Web li.active-folder > a, .div_MainNavigation_Web li.active-link a{color:#CCAC45!important;}
