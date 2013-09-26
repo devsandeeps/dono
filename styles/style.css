@@ -27,12 +27,12 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 .header_Fixed_content{max-width:1280px;width:100%;margin:0 auto;position:relative;}
 .Logo_Block{position:absolute;}
 .Address_Block{position:absolute;right:500px;top:13px;width:140px;height:90px;}
-.Search_Block{position:absolute;right:228px;top:13px;width:248px;height:90px;}
+.Search_Block{position:absolute;right:227px;top:13px;width:248px;height:90px;}
 .FollowUs_Block{position:absolute;right:0px;top:13px;width:208px;height:90px;}
 
 .Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
 
-#Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;background:url(/assets/images/Search_Play.png) no-repeat 220px 2px;}
+#Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;background:url(/assets/images/Search_Play.png) no-repeat 200px 2px;border-right: 2px solid rgb(93, 93, 93);padding-right: 19px;}
 #Header_Search_Block .title{padding: 4px 12px 4px 45px;color: #aaa;border-color:#535353;background:url(/assets/images/searchIcon.png) no-repeat 15px 50%;background-position: 5px 4px;
                             -webkit-transition: color 0.4s ease-out, background-position 0.2s ease-out;-moz-transition: color 0.4s ease-out, background-position 0.2s ease-out;-o-transition: color 0.4s ease-out, background-position 0.2s ease-out;transition: color 0.4s ease-out, background-position 0.2s ease-out;}
 #Header_Search_Block .title:hover{background-position: 5px -26px;color:#CCAC45;}
