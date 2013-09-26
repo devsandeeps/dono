@@ -1,16 +1,23 @@
+@font-face {
+    font-family: 'ProximaNovaLight';
+    src: url('/assets/fonts/proximanova-light.eot');
+    src: url('/assets/fonts/proximanova-light.eot') format('embedded-opentype'),
+         url('/assets/fonts/proximanova-light.woff') format('woff'),
+         url('/assets/fonts/proximanova-light.ttf') format('truetype'),
+         url('/assets/fonts/proximanova-light.svg#ProximaNovaLight') format('svg');
+}
 
 @font-face {
-    font-family: 'proxima_nova_rgregular';
-    src: url('/assets/fonts/proximanova-regular-webfont.eot');
-    src: url('/assets/fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/assets/fonts/proximanova-regular-webfont.woff') format('woff'),
-         url('/assets/fonts/proximanova-regular-webfont.ttf') format('truetype'),
-         url('/assets/fonts/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
-
+    font-family: 'ProximaNovaRegular';
+    src: url('proxima-nova.eot');
+    src: url('proxima-nova.eot') format('embedded-opentype'),
+         url('proxima-nova.woff') format('woff'),
+         url('proxima-nova.ttf') format('truetype'),
+         url('proxima-nova.svg#ProximaNovaRegular') format('svg');
 }
 
 
-body{width:100%!important;max-width:100%!important;background:#000!important;margin:0px!important;padding:0px!important;font-family: "proxima_nova_rgregular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
+body{width:100%!important;max-width:100%!important;background:#000!important;margin:0px!important;padding:0px!important;font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 
 .header_wrapper{width:100%;max-width:1280px;margin:0 auto;}
 .div_MainNavigation_MobileIpad{display:none;}
