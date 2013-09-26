@@ -25,4 +25,4 @@ body{width:100%!important;max-width:100%!important;background:#000!important;mar
 .div_MainNavigation_Web ul.folder-parent{margin:0px;padding:0px;list-style:none;}
 .div_MainNavigation_Web ul.folder-parent li a{text-transform: uppercase;letter-spacing: 1px !important;padding: 0.5em;display: inline-block;color: #fff;line-height: 18px;font-size: 18px;text-decoration:none;}
 .div_MainNavigation_Web li a:hover{color:#CCAC45!important;}
-.div_MainNavigation_Web li.active-folder a:first-child, .div_MainNavigation_Web li a.active-link{color:#CCAC45!important;}
+.div_MainNavigation_Web li a.active-link{color:#CCAC45!important;}
