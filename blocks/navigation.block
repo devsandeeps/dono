@@ -12,7 +12,7 @@
       <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
 
       <ul class="folder-child">
-
+        <div class="nav_PopUpTitle">{collection.navigationTitle}</div>
         {.repeated section items}
 
         <!--COLLECTION IN A FOLDER-->
