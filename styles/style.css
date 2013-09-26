@@ -72,7 +72,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 .div_MainNavigation_MobileIpad li.ChildNav_Mobile:first-child{padding-left:0px;}
 .div_MainNavigation_MobileIpad .ParentNav_Mobile:before {content: '+';font-size:14px;line-height:20px;color:#fff;margin-right:12px;}
 .div_MainNavigation_MobileIpad .ChildNav_Mobile{display:none;}
-.div_MainNavigation_MobileIpad li.active-folder > a, .div_MainNavigation_MobileIpad li.active-link a:first-child{color:#CCAC45!important;}
+.div_MainNavigation_MobileIpad li.active-folder > a, .div_MainNavigation_MobileIpad li.active-folder li.active-link a:first-child{color:#CCAC45!important;}
 
 /* iPhone Portrait */
 @media screen and (max-width: 480px) and (orientation:portrait) 
