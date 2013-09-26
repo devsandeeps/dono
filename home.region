@@ -1,6 +1,7 @@
 <div class="home_Slider">
   <squarespace:block-field id="home_Slider_block" columns="1"/>
 </div>
+<div class="clear"></div>
 <div class="PageContent_Wrapper">
   <div class="PageContent_Content">
     <div class="PageContent_Content_Page"> 
