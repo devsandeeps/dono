@@ -29,7 +29,8 @@ body{width:100%!important;max-width:100%!important;background:#000!important;mar
 
 
 #Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;}
-#Header_Search_Block .title{padding: 6px 12px 6px 45px;color: #aaa;border-color:#403e3d;}
+#Header_Search_Block .title{padding: 6px 12px 6px 45px;color: #aaa;border-color:#403e3d;background:background: url(/assets/images/searchIcon.png) no-repeat 15px 50%;background-position: -0px -0px;}
+#Header_Search_Block .title:hover{background-position: -0px -30px;color:#CCAC45;}
 .FollowUs_Block p{text-align:center;}
 .FollowUs_Block p a{text-decoration:none;height: 32px !important;color: #CCAC45;font-size: 20px;font-weight: 300;font-family: "jubilat", serif !important;font-style: italic !important;letter-spacing: 1px;text-shadow: 0px -1px 1px #000000;line-height: .9em;padding: 0 14px;}
 
