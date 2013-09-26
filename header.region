@@ -34,7 +34,8 @@
 					<squarespace:block-field id="Header_Search_Block" columns="1"/>
 				</div>
 				<div class="FollowUs_Block">
-					<squarespace:block-field id="Header_Follow Us_Block" columns="1"/>
+					<a href="/follow-us"><img src="/assets/images/follow-us-button.png" alt="Follow Us"></a><br/>
+					<a href="/contact-us">Contact Us</a>
 				</div>
 				<div class="clear"></div>
 		</div>
