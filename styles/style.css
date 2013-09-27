@@ -18,7 +18,7 @@
 
 
 body{width:100%!important;max-width:100%!important;background:#000!important;margin:0px!important;padding:0px!important;font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
-.clear{clear:both;height:0px;}
+.clr{clear:both;height:0px;}
 a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-o-transition: color 0.4s ease-out;transition: color 0.4s ease-out;}
 
 
