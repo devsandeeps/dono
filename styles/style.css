@@ -135,7 +135,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
    .Address_Block {right: 255px;top: 56px;width: 190px;}
-   #block-ebbd064d712819518da4 .meta{padding:8px;}
+   #block-ebbd064d712819518da4 .meta{padding:8px;max-width:350px;max-height:300px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
 }
@@ -143,7 +143,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPad Landscape */
 @media screen and (min-width: 481px) and (max-width: 1024px) and (orientation:landscape) 
 {
-   #block-ebbd064d712819518da4 .meta{padding:8px;}
+   #block-ebbd064d712819518da4 .meta{padding:8px;max-width:450px;max-height:200px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
 }
