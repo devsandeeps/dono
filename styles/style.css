@@ -75,7 +75,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 .div_MainNavigation_MobileIpad .ChildNav_Mobile{display:none;}
 
 /*Home Slider*/
-.home_Slider_SlideShow{width:100%;}
+.home_Slider_SlideShow{width:100%;overflow: hidden;overflow-y:scroll;-webkit-overflow-scrolling: touch;}
 #home_Slider_block{max-width:1280px;width:100%;margin:0 auto;margin:0 auto;}
 #home_Slider_block h1{color: #CCAC45;font-size: 50px;line-height:1.9;font-weight: 100 !important;font-family: "jubilat", serif !important;font-style: italic !important;letter-spacing: 2px;text-shadow: 0px -1px 1px #000000;}
 #home_Slider_block .sqs-row{margin-top:0px!important;margin-bottom:0px!important;padding-top:0px!important;padding-bottom:0px!important;}
@@ -114,6 +114,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .header_wrapper {padding-top: 100px;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:15px;}
+   .home_Slider_SlideShow{width:320px;}
 } 
 
 /* iPhone Landscape */
@@ -134,6 +135,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .header_wrapper {padding-top: 100px;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:20px;}
+   .home_Slider_SlideShow{width:480px;}
 }
 
 /* iPad Portrait */
@@ -144,6 +146,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
    #home_Slider_block h1{font-size:30px;}
+   .home_Slider_SlideShow{width:768px;}
 }
 
 /* iPad Landscape */
@@ -153,4 +156,5 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
    #home_Slider_block h1{font-size:48px;}
+   .home_Slider_SlideShow{width:1024px;}
 }
