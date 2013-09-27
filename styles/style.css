@@ -135,10 +135,11 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
    .Address_Block {right: 255px;top: 56px;width: 190px;}
+   #block-ebbd064d712819518da4 .meta{height:50%;}
 }
 
 /* iPad Landscape */
 @media screen and (min-width: 481px) and (max-width: 1024px) and (orientation:landscape) 
 {
-   
+   #block-ebbd064d712819518da4 .meta{height:50%;}
 }
