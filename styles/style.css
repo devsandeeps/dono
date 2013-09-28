@@ -109,6 +109,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none;}
    .Search_Block{display:none;}
+   .Search_Block .sqs-block{padding:0px!important;}
    .FollowUs_Block{display: block;top: 108px;right:17px;}
    .FollowUs_Block p{display:none;}
    .header_wrapper {padding-top: 100px;}
@@ -129,6 +130,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .div_MainNavigation_Web{display:none;}
    .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none;}
+   .Search_Block .sqs-block{padding:0px!important;}
    .Search_Block{display: block;top: 108px;width:155px;}
    .FollowUs_Block{display: block;top: 108px;right:17px;}
    .FollowUs_Block p{display:none;}
@@ -141,7 +143,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPad Portrait */
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
-    #Header_Search_Block .sqs-search-ui-button-wrapper{background-position: 166px 2px;}
+    .Search_Block .sqs-block{padding:0px!important;}
    .Address_Block {right: 255px;top: 56px;width: 190px;}
    #block-ebbd064d712819518da4 .meta{padding:15px;max-width:380px;max-height:200px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
@@ -153,7 +155,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /* iPad Landscape */
 @media screen and (min-width: 481px) and (max-width: 1024px) and (orientation:landscape) 
 {
-    #Header_Search_Block .sqs-search-ui-button-wrapper{background-position: 166px 2px;}
+   .Search_Block .sqs-block{padding:0px!important;}
    #block-ebbd064d712819518da4 .meta{padding:15px;max-width:450px;max-height:200px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
