@@ -1,5 +1,7 @@
-<div class="home_Slider_SlideShow">
-  <squarespace:block-field id="home_Slider_block" columns="1"/>
+<div class="home_Slider_SlideShow_wrapper">
+  <div class="home_Slider_SlideShow_conetnt">
+    <squarespace:block-field id="home_Slider_block" columns="1"/>
+  </div>
 </div>
 
 <div class="PageContent_Wrapper">
