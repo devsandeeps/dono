@@ -91,7 +91,8 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
 /*Content*/
 .PageContent_Wrapper{width:100%;}
 .PageContent_Content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;margin:0 auto;background:#fff;min-height:400px;}
-.PageContent_Content_Page{width:96%;padding:0 2%;}
+.PageContent_Content_Page{width:auto;padding:0 2%;float:left;}
+.Page_SideBar{float:left;width:250px;height:400px;background:red;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
