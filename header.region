@@ -17,7 +17,7 @@
 
   </head>
 
-  <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
+  <body id="{squarespace.page-id}" class="{squarespace.page-classes}" style="overflow-x: hidden;">
 
   <div class="header_wrapper">
     <header id="header">
