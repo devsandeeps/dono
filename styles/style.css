@@ -104,6 +104,9 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
 #block-2fa380e322c4e7ebb621 a{font-weight: 400;letter-spacing: 1px;color: #CCAC45;font-size: 1.15em;line-height: 28px;white-space: nowrap;}
 #block-2fa380e322c4e7ebb621 a:hover{color:#fff;}
 
+/*Hide All Gallaries for AfterBefore*/
+#block-6db4678deea380b96c94{display:none;}
+
 /* iPhone Portrait */
 @media screen and (max-width: 480px) and (orientation:portrait) 
 {
