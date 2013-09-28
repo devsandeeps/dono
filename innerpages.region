@@ -1,11 +1,12 @@
 <div class="PageContent_Wrapper">
   <div class="PageContent_Content">
-    <div class="PageContent_Content_Page">
-      {squarespace.main-content}
-    </div>
     <div class="Page_SideBar">
       <squarespace:block-field id="home_Sidebar_block" columns="1"/>
     </div>
+    <div class="PageContent_Content_Page">
+      {squarespace.main-content}
+    </div>
+    
     <div class="clr"></div>
   </div>
 </div>
