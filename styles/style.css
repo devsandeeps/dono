@@ -177,7 +177,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 @media screen and (min-width: 600px) and (max-width: 739px) and (orientation:landscape) 
 {
    .Address_Block {display:none;}
-   .Search_Block{display: block;width:135px;right:170px;}
+   .Search_Block{display: block;width:105px;right:190px;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px;background:none;padding-right:0px;}
 }
 @media screen and (min-width: 740px) and (max-width: 940px) and (orientation:landscape) 
