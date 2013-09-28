@@ -91,7 +91,7 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
 /*Content*/
 .PageContent_Wrapper{width:100%;}
 .PageContent_Content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;margin:0 auto;background:#fff;min-height:400px;}
-.PageContent_Content_Page{width: auto;overflow: hidden;padding:0 2% 0 1%;}
+.PageContent_Content_Page{width: auto!important;overflow: hidden;padding:0 2% 0 1%;}
 .Page_SideBar{float:right;width:210px;height:400px;margin-right:1%;
               background: #EBEBEB;-moz-box-shadow: 0px 0px 10px #acacac;-webkit-box-shadow: 0px 0px 10px #acacac;box-shadow: 0px 0px 10px #acacac;}
 
@@ -124,6 +124,7 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
    .header_wrapper {padding-top: 100px;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
+   .Page_SideBar{display:none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:15px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
@@ -149,6 +150,7 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
    .header_wrapper {padding-top: 100px;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
+   .Page_SideBar{display:none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:20px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
@@ -187,6 +189,7 @@ h1{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucid
        .Address_Block {display:none;}
    .Search_Block{display: none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
+   .Page_SideBar{display:none;}
 }
 @media screen and (min-width: 600px) and (max-width: 739px)
 {
