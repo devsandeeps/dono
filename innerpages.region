@@ -5,6 +5,7 @@
     </div>
     <div class="PageContent_Content_Page">
       <div class="ShareThisBlock">
+        <span>Share This </span>
         <span class='st_facebook_large' displayText='Facebook'></span>
         <span class='st_twitter_large' displayText='Tweet'></span>
         <span class='st_linkedin_large' displayText='LinkedIn'></span>
