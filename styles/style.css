@@ -90,7 +90,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 /*Content*/
 .PageContent_Wrapper{width:100%;}
 .PageContent_Content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;margin:0 auto;background:#fff;min-height:400px;}
-.PageContent_Content_Page{width:100%;padding:0;}
+.PageContent_Content_Page{width:96%;padding:0 2%;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
@@ -115,6 +115,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .FollowUs_Block p{display:none;}
    .header_wrapper {padding-top: 100px;}
    
+   .PageContent_Content_Page{width:100%;padding:0;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:15px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
@@ -138,6 +139,8 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    .FollowUs_Block{display: block;top: 108px;right:17px;}
    .FollowUs_Block p{display:none;}
    .header_wrapper {padding-top: 100px;}
+   
+   .PageContent_Content_Page{width:100%;padding:0;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:20px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
@@ -153,6 +156,8 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
    #home_Slider_block h1{font-size:30px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
+   
+   .PageContent_Content_Page{width:100%;padding:0;}
 }
 
 /* iPad Landscape */
@@ -164,4 +169,6 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
    #home_Slider_block h1{font-size:48px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
+   
+   .PageContent_Content_Page{width:100%;padding:0;}
 }
