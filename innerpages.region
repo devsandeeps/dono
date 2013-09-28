@@ -1,6 +1,13 @@
 <div class="PageContent_Wrapper">
   <div class="PageContent_Content">
     <div class="Page_SideBar">
+      <div class="ShareThisBlock">
+          <span class='st_facebook_large' displayText='Facebook'></span>
+          <span class='st_twitter_large' displayText='Tweet'></span>
+          <span class='st_linkedin_large' displayText='LinkedIn'></span>
+          <span class='st_pinterest_large' displayText='Pinterest'></span>
+          <span class='st_email_large' displayText='Email'></span>
+      </div>
       <squarespace:block-field id="home_Sidebar_block" columns="1"/>
     </div>
     <div class="PageContent_Content_Page">
