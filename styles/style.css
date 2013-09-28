@@ -135,6 +135,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:15px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
+   .ShareThisBlock .ShareThis_Title{display:none;}
 } 
 
 /* iPhone Landscape */
@@ -161,6 +162,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    #home_Slider_block h1{font-size:20px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
+   .ShareThisBlock .ShareThis_Title{display:none;}
 }
 
 /* iPad Portrait */
