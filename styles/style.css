@@ -178,6 +178,7 @@ a{-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-
 {
        .Address_Block {display:none;}
    .Search_Block{display: none;}
+   #block-ebbd064d712819518da4 .meta{display:none;}
 }
 @media screen and (min-width: 600px) and (max-width: 739px)
 {
