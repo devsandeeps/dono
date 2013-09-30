@@ -6,6 +6,7 @@
     <div class="PageContent_Content_Page">
 
       {squarespace.main-content}
+      <br></br>
       <hr/>
       <div class="ShareThisBlock">
         <div class="ShareThis_Title">Share This </div>
