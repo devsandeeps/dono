@@ -199,7 +199,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    .Search_Block{display: none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    .Page_SideBar{display:none;}
-   .ShareThisBlock .ShareThis_Title{display:none;}
+   
 }
 @media screen and (min-width: 600px) and (max-width: 739px)
 {
