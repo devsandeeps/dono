@@ -8,7 +8,8 @@
       {squarespace.main-content}
       <hr/>
       <div class="ShareThisBlock">
-        <span class="ShareThis_Title">Share This </span>
+        <div class="ShareThis_Title">Share This </div>
+        
         <span class='st_facebook_large' displayText='Facebook'></span>
         <span class='st_twitter_large' displayText='Tweet'></span>
         <span class='st_linkedin_large' displayText='LinkedIn'></span>
