@@ -98,7 +98,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 .ShareThisBlock .ShareThis_Title{text-transform: uppercase;font-size: 15px;margin-bottom:8px;}
 .Page_SideBar{float:right;width:210px;height:400px;margin-right:3%;
               background: #EBEBEB;-moz-box-shadow: 0px 0px 10px #acacac;-webkit-box-shadow: 0px 0px 10px #acacac;box-shadow: 0px 0px 10px #acacac;}
-.Bottom_hr{margin:0 4%;}
+.Bottom_hr{margin:0 2%;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
