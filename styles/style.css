@@ -94,7 +94,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 .PageContent_Wrapper{width:100%;}
 .PageContent_Content{max-width:1280px;width:100%;margin:0 auto;padding:50px 0;margin:0 auto;background:#fff;min-height:400px;}
 .PageContent_Content_Page{width: auto!important;overflow: hidden;padding:0 4% 0 3%;position:relative;}
-.ShareThisBlock{text-align:right;margin-right:3%;position:relative;}
+.ShareThisBlock{text-align:center;margin-right:3%;position:relative;margin-top:30px;}
 .ShareThisBlock .ShareThis_Title{margin-right: 80px;text-transform: uppercase;font-size: 15px;position: absolute;right: 140px;bottom: 13px;}
 .Page_SideBar{float:right;width:210px;height:400px;margin-right:3%;
               background: #EBEBEB;-moz-box-shadow: 0px 0px 10px #acacac;-webkit-box-shadow: 0px 0px 10px #acacac;box-shadow: 0px 0px 10px #acacac;}
