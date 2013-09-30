@@ -7,7 +7,7 @@
 
       {squarespace.main-content}
       <br></br>
-      <hr/>
+      <hr class="Bottom_hr"/>
       <div class="ShareThisBlock">
         <div class="ShareThis_Title">Share This </div>
         
