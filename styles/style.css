@@ -101,6 +101,8 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 .Bottom_hr{margin:0 2%;}
 .float-right, .float-left{margin:0!important;}
 
+
+
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
 .footer_content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;}
@@ -138,6 +140,9 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    #home_Slider_block h1{font-size:15px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
    
+   /*Videos*/
+#block-42d0b9c3f8ac19976d7d .slide{float: none;width: 100%;}
+   
 } 
 
 /* iPhone Landscape */
@@ -165,6 +170,8 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    #home_Slider_block h1{font-size:20px;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
    
+   /*Videos*/
+#block-42d0b9c3f8ac19976d7d .slide{float: none;width: 100%;}
 }
 
 /* iPad Portrait */
@@ -179,6 +186,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
+   
 }
 
 /* iPad Landscape */
