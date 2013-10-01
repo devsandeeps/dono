@@ -118,7 +118,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 
 /*Validation*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
-#AskQuestionForm input[type="text"] {width:96%;padding:0 2%;border:1px solid #acacac;color:#acacac;height:35px;}
+#AskQuestionForm input[type="text"], #AskQuestionForm textarea {width:96%;padding:0 2%;border:1px solid #acacac;color:#acacac;height:35px;}
+#AskQuestionForm textarea{height:100px;}
 .validation_ok{background:#fff url(/assets/images/bg_validation_ok.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
 .validation_error{background:#fff url(/assets/images/bg_validation_error.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
 
