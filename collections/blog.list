@@ -78,7 +78,7 @@
     <!--SHARE AND LIKE-->
 
     {@|like-button}
-    {@|social-button}
+   
 
     <!--POST META-->
     
@@ -88,16 +88,7 @@
 
     {@|comment-link}
 
-    <!--LOCATION-->
-
-    {.section location}
-      {.section addressTitle}
-        {addressTitle}
-        {addressLine1}
-        {addressLine2}
-        {addressCountry}
-      {.end}
-    {.end}
+  
 
   </article>
 
