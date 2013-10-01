@@ -124,7 +124,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 .validation_ok{background:#fff url(/assets/images/bg_validation_ok.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
 .validation_error{background:#fff url(/assets/images/bg_validation_error.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
 #div_PopUpContainer{display: none;background: url(/static/51809745e4b05de3eed13d9f/t/520f06e2e4b00ff918dd7d81/1376716514744/bg_trans.png) repeat;z-index: 999999;width: 100%;position: fixed;top: 0px;bottom: 0;}
- #div_PopUpDetails{padding: 20px;position: absolute;width: 800px;height: 400px;top: 50%;left: 50%;margin-left: -400px;margin-top: -200px;background: #fff;-moz-box-shadow: 0px 0px 15px #000;-webkit-box-shadow: 0px 0px 15px #000;box-shadow: 0px 0px 15px #000;overflow-y: scroll;}
+ #div_PopUpDetails{padding: 20px;position: absolute;width: 800px;height: 400px;top: 50%;left: 50%;margin-left: -400px;margin-top: -200px;background: #fff;-moz-box-shadow: 0px 0px 15px #000;-webkit-box-shadow: 0px 0px 15px #000;box-shadow: 0px 0px 15px #000;overflow-y: auto;}
 .Salebuttons{clear: both;margin-bottom: 30px;}
 .Salebuttons a{background: #313131;color: #fff;padding: 10px 15px;margin-right: 20px;}
 .Salebuttons a:hover{background: #000;}
