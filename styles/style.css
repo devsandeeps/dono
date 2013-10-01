@@ -117,8 +117,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 .Main_Blogs_Icon a .icon-list:before {content: "\00ab";font-weight: normal;font-style: normal;display: inline-block;text-decoration: inherit;}
 
 /*Validation*/
-.validation_ok{background:#fff url(/assets/images/bg_validation_ok.jpg) no-repeat right center!important;padding-right:8%!important;width:91%!important;}
-.validation_error{background:#fff url(/assets/images/bg_validation_error.jpg) no-repeat right center!important;padding-right:8%!important;width:91%!important;}
+.validation_ok{background:#fff url(/assets/images/bg_validation_ok.jpg) no-repeat right center!important;padding-right:28px!important;}
+.validation_error{background:#fff url(/assets/images/bg_validation_error.jpg) no-repeat right center!important;padding-right:28px!important;}
 
 
 /*Footer*/
