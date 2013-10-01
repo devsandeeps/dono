@@ -143,7 +143,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 
 
 /*Before After*/
-#page-524acbe9e4b03fcb7c692ae8 p{margin:0px;padding:0px;background: aquamarine;margin-top: -35px;padding: 13px;margin-bottom: 20px;max-width:444px;}
+#page-524acbe9e4b03fcb7c692ae8 p{margin:0px auto;padding:0px;background: aquamarine;margin-top: -35px;padding: 13px;margin-bottom: 20px;max-width:444px;}
 .twentytwenty-container{margin-left:auto;margin-right:auto;}
 #block-721ec74e3f005247af7b p{margin:initial;padding:initial;background: none;max-width:100%;}
 
