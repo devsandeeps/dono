@@ -22,7 +22,7 @@
 {.repeated section items}
 
   <!--WRAPPER-->
-  
+  <hr/>
   <article id="post-{id}" class="{@|item-classes}">
     
     <!--MAIN IMAGE-->
