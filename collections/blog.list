@@ -55,7 +55,7 @@
       <!--MAIN CONTENT-->
 
       {body}
-      <a class="link" href="{fullUrl}">Permalink</a>
+      <a class="link" href="{fullUrl}"></a>
 
     {.end}
 
