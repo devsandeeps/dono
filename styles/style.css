@@ -116,7 +116,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 .Main_Blogs_Icon a .icon-list{display: inline-block;width: 1.25em;text-align: center;}
 .Main_Blogs_Icon a .icon-list:before {content: "\00ab";font-weight: normal;font-style: normal;display: inline-block;text-decoration: inherit;}
 
-/*Validation*/
+/*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
 #AskQuestionForm input[type="text"], #AskQuestionForm textarea {width:96%;padding:0 2%;border:1px solid #acacac;color:#acacac;height:35px;}
 #AskQuestionForm textarea{height:100px;padding:10px 2%;}
@@ -131,6 +131,10 @@ h1.title a:hover{color: #CCAC46 !important;}
 #div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;}
 #table_QuestionsList a{color:#000;}
 #table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
+#ListFaqs ul{list-style:none;}
+#ListFaqs ul li a{display:inline-block;width:100%;color:#000;}
+#ListFaqs ul li a:hover{color:#CCAC45;}
+#ListFaqs ul li span{display:inline-block;width:100%;color:#acacac;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
