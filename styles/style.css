@@ -23,8 +23,7 @@ img {border:0;outline:none;}
 a{text-decoration:none;-webkit-transition: color 0.4s ease-out;-moz-transition: color 0.4s ease-out;-o-transition: color 0.4s ease-out;transition: color 0.4s ease-out;}
 p{font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;line-height:25px;}
 h1{font-family: "ProximaNovaLight", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;font-size: 40px;text-transform: uppercase;font-weight: 100;}
-/*hr {height: 30px;border-style: solid;border-color: #9b9b9b;border-width: 1px 0 0 0;border-radius: 20px;}
-hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-style: solid;border-color: #9b9b9b;border-width: 0 0 1px 0;border-radius: 20px;}*/
+
 hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 
 
@@ -104,7 +103,9 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .ShareThisBlock .ShareThis_Title{text-transform: uppercase;font-size: 15px;margin-bottom:8px;}
 .Page_SideBar{float:right;width:210px;height:400px;margin-right:3%;
               background: #EBEBEB;-moz-box-shadow: 0px 0px 10px #acacac;-webkit-box-shadow: 0px 0px 10px #acacac;box-shadow: 0px 0px 10px #acacac;}
-.Bottom_hr{margin:0;}
+
+.Bottom_hr{height: 30px;border-style: solid;border-color: #9b9b9b;border-width: 1px 0 0 0;border-radius: 20px;}
+.Bottom_hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-style: solid;border-color: #9b9b9b;border-width: 0 0 1px 0;border-radius: 20px;}
 .float-right, .float-left{margin:0!important;}
 
 /*Blogs*/
@@ -139,12 +140,10 @@ h1.title a:hover{color: #CCAC46 !important;}
 #ListFaqs ul li a{margin:10px 0;display:inline-block;width:100%;color:#000;font-size:17px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs ul li a:hover{color:#CCAC45;}
 #ListFaqs ul li div{display:none;width:100%;color:#858282;font-size:14px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
-#ListFaqs hr{border-top:1px dotted #9b9b9b;height:0px;}
-#ListFaqs hr:before{display:none;margin:0px;}
+
 
 /*Before After*/
-#page-524acbe9e4b03fcb7c692ae8 hr{border-top:1px dotted #9b9b9b;height:0px;}
-#page-524acbe9e4b03fcb7c692ae8 hr:before{display:none;margin:0px;}
+
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
