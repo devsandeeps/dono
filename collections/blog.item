@@ -1,4 +1,5 @@
-
+<h2 class="Main_Blogs_Icon"><a href="/hair-blog"><i class="icon-list"></i>Back to hair blogs</a><h2>
+<hr/>
 {.section item}
 
   <!--WRAPPER-->
@@ -14,7 +15,10 @@
         <a href="{fullUrl}">{title}</a>
       {.end}
     </h1>
-
+	 <p class="meta">
+      <a href="{fullUrl}"><time datetime="{addedOn|date %F}">{addedOn|date %B %d, %Y}</time></a>
+      
+    </p>   
     <!--MAIN CONTENT-->
 
     {body}
@@ -38,31 +42,12 @@
     <!--SHARE AND LIKE-->
 
     {@|like-button}
-    {@|social-button}
 
-    <!--AUTHOR AND DATE-->
-    
-    <p class="meta">
-      Published on <a href="{fullUrl}"><time datetime="{addedOn|date %F}">{addedOn|date %B %d, %Y}</time></a> by <a href="{collection.fullUrl}?author={author.id}">{author.displayName}</a>.
-      {.section sourceUrl}
-        <a href="{@}" class="source" target="_blank">Source</a>.
-      {.end}
-    </p>        
-
-    <!--LOCATION-->
-
-    {.section location}
-      {.section addressTitle}
-        {addressTitle}
-        {addressLine1}
-        {addressLine2}
-        {addressCountry}
-      {.end}
-    {.end}
 
     <!--COMMENTS-->
 
     {@|comments}
+
 
   </article>
 
