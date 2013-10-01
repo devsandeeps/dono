@@ -132,7 +132,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #table_QuestionsList a{color:#000;}
 #table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs h1{text-align:center;}
-#ListFaqs ul{list-style:none;}
+#ListFaqs ul{list-style:none;margin-left:0px;margin-right:0px;padding:0px;}
 #ListFaqs ul li a{margin:10px 0;display:inline-block;width:100%;color:#000;font-size:17px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs ul li a:hover{color:#CCAC45;}
 #ListFaqs ul li div{display:none;width:100%;color:#858282;font-size:14px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
