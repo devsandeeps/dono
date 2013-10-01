@@ -42,7 +42,9 @@
         <a href="{fullUrl}">{title}</a>
       {.end}
     </h1>
-
+	<p class="meta">
+      <a href="{fullUrl}"><time datetime="{addedOn|date %F}">{addedOn|date %B %d, %Y}</time></a>
+    </p>  
     <!--EXCERPT OR BODY-->
 
     {.if excerpt}
@@ -80,12 +82,7 @@
 
     <!--POST META-->
     
-    <p class="meta">
-      Published on <a href="{fullUrl}"><time datetime="{addedOn|date %F}">{addedOn|date %B %d, %Y}</time></a> by <a href="?author={author.id}">{author.displayName}</a>.
-      {.section sourceUrl}
-        <a href="{@}" class="source" target="_blank">Source</a>.
-      {.end}
-    </p>        
+          
 
     <!--LINK TO COMMENTS-->
 
