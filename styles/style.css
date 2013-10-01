@@ -128,7 +128,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 .Salebuttons{clear: both;margin-bottom: 30px;}
 .Salebuttons a{background: #313131;color: #fff;padding: 10px 15px;margin-right: 20px;}
 .Salebuttons a:hover{background: #000;}
-#div_PopUpContainer textarea{height:150px;padding:10px 2%;width:750px;}
+#div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
