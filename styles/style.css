@@ -132,12 +132,12 @@ h1.title a:hover{color: #CCAC46 !important;}
 #table_QuestionsList a{color:#000;}
 #table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs ul{list-style:none;}
-#ListFaqs ul li a{display:inline-block;width:100%;color:#000;}
+#ListFaqs ul li a{display:inline-block;width:100%;color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs ul li a:hover{color:#CCAC45;}
-#ListFaqs ul li span{display:inline-block;width:100%;color:#acacac;}
+#ListFaqs ul li span{display:inline-block;width:100%;color:#acacac;font-size:14px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 
 /*Footer*/
-#footer_wrapper{width:100%;overflow-x: hidden;}
+#footer_wrapper{width:100%;overflow-x: hidden;
 .footer_content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;}
 #footer_wrapper p {color: #aaa;font-size: 13px !important;}
 #block-394584a859c9088cf48c a{color: #CCAC45;font-style:italic;}
