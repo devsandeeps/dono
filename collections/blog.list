@@ -1,6 +1,6 @@
 
 <!-- CATEGORY FILTER RESULTS ex: http://base-template.squarespace.com/blog/?category=category1 -->
-
+<h1>Hair Blogs</h1>
 {.section categoryFilter}
   <p>Filtering by Category: {@}</p>
 {.end}
