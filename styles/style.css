@@ -130,7 +130,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #div_PopUpContainer a:hover{background: #000;}
 #div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;}
 #table_QuestionsList a{color:#000;}
-#table_QuestionsList td{color:#000;font-size:15px;}
+#table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
