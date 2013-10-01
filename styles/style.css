@@ -106,7 +106,10 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 
 /*Blogs*/
 article{margin-bottom:50px;}
-.Main_Blogs_Icon{}
+.Main_Blogs_Icon a{color: #CCAC46 !important;border-bottom: 1px dotted #ccc;}
+.Main_Blogs_Icon a:hover{color: #666 !important;border-bottom: 1px solid #666;}
+.Main_Blogs_Icon a .icon-list{display: inline-block;width: 1.25em;text-align: center;}
+.Main_Blogs_Icon a .icon-list:before {content: "\f03a";font-family: FontAwesome;font-weight: normal;font-style: normal;display: inline-block;text-decoration: inherit;}
 
 
 /*Footer*/
