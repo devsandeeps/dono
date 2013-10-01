@@ -129,6 +129,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 #div_PopUpContainer a{background: #313131;color: #fff;padding: 10px 15px;margin-right: 20px;}
 #div_PopUpContainer a:hover{background: #000;}
 #div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;}
+#table_QuestionsList a{color:#000;}
+#table_QuestionsList td{color:#000;font-size:15px;}
 
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
