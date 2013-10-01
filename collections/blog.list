@@ -88,7 +88,7 @@
     </p>        
 
     <!--LINK TO COMMENTS-->
-	<a href="{fullUrl}#commenting">Comments</a>
+	<a href="{fullUrl}#comments">Comments</a>
    
 
     <!--LOCATION-->
