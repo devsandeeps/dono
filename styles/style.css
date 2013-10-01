@@ -106,7 +106,8 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 
 /*Blogs*/
 article{margin-bottom:50px;}
-article p, article .cit{line-height:25px;font-size:15px;font-weight:lighter;}
+article p{line-height:25px;font-size:15px;font-weight:lighter;}
+article .cit{line-height:25px;font-size:18px;font-weight:lighter;}
 h1.title{font-size: 30px;}
 h1.title a{color:#000;}
 h1.title a:hover{color: #CCAC46 !important;}
