@@ -76,7 +76,7 @@
     {.end}
 
     <!--SHARE AND LIKE-->
-
+	<span class="comments"><a href="{fullUrl}#commenting"><i class="icon-comment"></i>Comment</a></span>
     {@|like-button}
    
 
