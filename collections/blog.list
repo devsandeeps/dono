@@ -88,8 +88,8 @@
     </p>        
 
     <!--LINK TO COMMENTS-->
-
-    {@|comment-link}
+	<a href="{fullUrl}#commenting">Comments</a>
+   
 
     <!--LOCATION-->
 
