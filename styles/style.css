@@ -105,7 +105,8 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 .float-right, .float-left{margin:0!important;}
 
 /*Blogs*/
-
+article{margin-bottom:20px;}
+.Main_Blogs_Icon{}
 
 
 /*Footer*/
