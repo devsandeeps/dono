@@ -118,8 +118,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
-#AskQuestionForm input[type="text"], #AskQuestionForm textarea {width:96%;padding:0 2%;border:1px solid #acacac;color:#acacac;height:35px;}
-#AskQuestionForm textarea{height:100px;padding:10px 2%;}
+#AskQuestionForm input[type="text"], #AskQuestionForm textarea {width:96%;padding:0 2%;border:1px solid #acacac;color:#acacac;height:35px;color:#000;}
+#AskQuestionForm textarea{height:100px;padding:10px 2%;color:#000;}
 #AskQuestionForm #spanMessage{display: block; width: 100%; text-align: left;margin-top:20px;}
 .validation_ok{background:#fff url(/assets/images/bg_validation_ok.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
 .validation_error{background:#fff url(/assets/images/bg_validation_error.jpg) no-repeat right center!important;padding-right:8%!important;width:90%!important;}
@@ -128,7 +128,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 .Salebuttons{clear: both;margin-bottom: 30px;}
 #div_PopUpContainer a{background: #313131;color: #fff;padding: 10px 15px;margin-right: 20px;}
 #div_PopUpContainer a:hover{background: #000;}
-#div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;}
+#div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;color:#000;}
 #table_QuestionsList a{color:#000;}
 #table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 #ListFaqs h1{text-align:center;}
