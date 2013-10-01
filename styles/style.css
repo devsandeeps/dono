@@ -108,6 +108,7 @@ hr:before {display: block;content: "";height: 30px;margin-top: -31px;    border-
 article{margin-bottom:50px;}
 article p{line-height:25px;font-size:15px;font-weight:lighter;}
 h1.title{font-size: 30px;}
+h1.title a{color:#000;}
 h1.title a:hover{color: #CCAC46 !important;}
 .Main_Blogs_Icon {margin-bottom:20px;}
 .Main_Blogs_Icon a{color: #CCAC46 !important;}
