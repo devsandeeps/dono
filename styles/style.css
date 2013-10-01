@@ -138,7 +138,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 
 /*Buttons*/
 #AskQuestionForm a
-{background-image: none !important;font-size: 20px !important;letter-spacing: 2px !important;font-weight: 100 !important;text-transform: uppercase;color: #fff;background-color: #000 !important;padding: 6px 30px;color: #fff !important;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;border: none;list-style: none !important;}
+{background-image: none !important;font-size: 20px !important;letter-spacing: 2px !important;font-weight: 100 !important;text-transform: uppercase;color: #fff;background-color: #000 !important;padding: 6px 30px;color: #fff !important;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;border: none;list-style: none !important;-webkit-transition: background-color 0.4s ease-out;-moz-transition: background-color 0.4s ease-out;-o-transition: background-color 0.4s ease-out;transition: background-color 0.4s ease-out;}
 
 #AskQuestionForm a:hover
 {background-color:#CCAC45 !important;}
