@@ -149,7 +149,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 .twentytwenty-container{margin-left:auto;margin-right:auto;}
 #block-721ec74e3f005247af7b p{margin:initial;padding:initial;background: none;max-width:100%;color:#000;text-align:left;}
 
-
+/*Follow US*/
+#block-b99a51d6c116e7b81b31 .image-wrapper{float:left;width:10%;}
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
 .footer_content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;}
@@ -197,6 +198,8 @@ h1.title a:hover{color: #CCAC46 !important;}
    
    /*Videos*/
 #block-42d0b9c3f8ac19976d7d .slide{float: none;width: 100%;}
+
+#block-b99a51d6c116e7b81b31 .image-wrapper{width:50%;}
    
 } 
 
@@ -227,6 +230,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    
    /*Videos*/
 #block-42d0b9c3f8ac19976d7d .slide{float: none;width: 100%;}
+#block-b99a51d6c116e7b81b31 .image-wrapper{width:30%;}
 }
 
 /* iPad Portrait */
@@ -241,6 +245,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
+   #block-b99a51d6c116e7b81b31 .image-wrapper{width:20%;}
    
 }
 
