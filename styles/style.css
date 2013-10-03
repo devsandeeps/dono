@@ -152,7 +152,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 /*Follow US*/
 #block-b99a51d6c116e7b81b31 .image-wrapper{float:left;width:10%;}
 #page-524427e7e4b0a6b4ebabfbbf{font-family: 'ProximaNovaRegular';}
-#page-524427e7e4b0a6b4ebabfbbf h1{color:#CCAC45;font-family: 'ProximaNovaLight';}
+#page-524427e7e4b0a6b4ebabfbbf h1{color:#CCAC45;font-family: 'ProximaNovaLight';text-transform:capitalize;}
 #page-524427e7e4b0a6b4ebabfbbf h3{color:#fff;}
 .followBox1, .followBox2, .followBox3, .followBox4{background:url(/assets/images/black-Linen-light.png) repeat;float:left;width:21.5%;margin-left:2%;padding:1%;margin-bottom:20px;}
 .followBox1{margin-left:0px;}
