@@ -269,6 +269,8 @@ h1.title a:hover{color: #CCAC46 !important;}
    .sqs-layout > .sqs-row {margin-left: 0!important;margin-right: 0!important;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
+   .followBox1, .followBox2, .followBox3, .followBox4{width:46%;margin-left:2%;}
+   .followBox1,.followBox3{margin-left:0px;}
 }
 
 /*Browser Resize*/
