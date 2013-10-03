@@ -117,7 +117,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 
 /*Home Page*/
 .Home_Columns{width: auto!important;overflow: hidden;padding:0 4% 0 3%;position:relative;}
-.home_column1, .home_column2, .home_column3{float:left;width:30%;margin-left:5%;padding-top:100px;}
+.home_column1, .home_column2, .home_column3{float:left;width:30%;margin-left:5%;padding-top:100px!important;}
 .home_column1{margin-left:0px;}
 
 /*Blogs*/
