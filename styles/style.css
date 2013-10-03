@@ -162,9 +162,9 @@ h1.title a:hover{color: #CCAC46 !important;}
 #block-bd6835cc8a839b58b570 .sqs-block-content, #block-92c7bcb274860fdb8641 .sqs-block-content, #block-9e467d5549e5d6f684e6 .sqs-block-content, #block-4e9c0322250de183950d .sqs-block-content{border-bottom:2px solid #000;padding:0 1% 10px 1%;}
 #page-524427e7e4b0a6b4ebabfbbf .social-account-list a{color:#CCAC45;}
 #page-524427e7e4b0a6b4ebabfbbf .social-account-list a:hover{color:#fff;}
-.followBox1 a, .followBox2 a, .followBox3 a, .followBox4 a{color:#CCAC45!important;font-size:15px;border-bottom:0px!important;font-family: 'ProximaNovaRegular';}
+.followBox1 a, .followBox2 a, .followBox3 a, .followBox4 a{color:#CCAC45!important;font-size:17px;border-bottom:0px!important;font-family: 'ProximaNovaRegular';}
 .followBox1 a:hover, .followBox2 a:hover, .followBox3 a:hover, .followBox4 a:hover{text-decoration:underline;}
-#page-524427e7e4b0a6b4ebabfbbf .timestamp, #page-524427e7e4b0a6b4ebabfbbf .tweet-text{color:#fff;}
+#page-524427e7e4b0a6b4ebabfbbf .timestamp, #page-524427e7e4b0a6b4ebabfbbf .tweet-text{color:#fff;font-family: 'ProximaNovaRegular';font-size:14px;}
 /*Footer*/
 #footer_wrapper{width:100%;overflow-x: hidden;}
 .footer_content{max-width:1280px;width:100%;margin:0 auto;padding:20px 0;}
