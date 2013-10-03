@@ -12,7 +12,18 @@
     <div class="PageContent_Content_Page"> 
     {squarespace.main-content}
     </div>
-    
     <div class="clr"></div>
+    <div class="Home_Columns">
+      <div class="home_column1">
+        <squarespace:block-field id="home_column1-block" columns="1" />
+      </div>
+      <div class="home_column2">
+        <squarespace:block-field id="home_column2-block" columns="1" />
+      </div>
+      <div class="home_column3">
+        <squarespace:block-field id="home_column3-block" columns="1" />
+      </div>
+    </div>
+    
   </div>
 </div>
