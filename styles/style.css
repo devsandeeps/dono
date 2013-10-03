@@ -164,7 +164,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #page-524427e7e4b0a6b4ebabfbbf .social-account-list a:hover{color:#fff;}
 .followBox1 a, .followBox2 a, .followBox3 a, .followBox4 a{color:#CCAC45!important;font-size:17px;border-bottom:0px!important;font-family: 'ProximaNovaRegular';}
 .followBox1 a:hover, .followBox2 a:hover, .followBox3 a:hover, .followBox4 a:hover{text-decoration:underline;}
-#page-524427e7e4b0a6b4ebabfbbf .timestamp, #page-524427e7e4b0a6b4ebabfbbf .tweet-text{color:#fff!important;font-family: 'ProximaNovaRegular';font-size:14px;}
+.followBox1 .timestamp, .followBox3 .tweet-text{color:#fff!important;font-family: 'ProximaNovaRegular';font-size:14px;}
 
 
 /*Footer*/
