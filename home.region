@@ -23,6 +23,7 @@
       <div class="home_column3">
         <squarespace:block-field id="home_column3-block" columns="1" />
       </div>
+      <div class="clr"></div>
     </div>
     
   </div>
