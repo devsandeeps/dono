@@ -15,6 +15,7 @@
       <div class="followBox4">
         <squarespace:block-field id="followBox4-block" columns="1" />
       </div>
+      <div class="clr"></div>
       <br></br>
       <hr class="Bottom_hr"/>
       <div class="ShareThisBlock">
