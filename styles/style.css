@@ -124,6 +124,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .home_column1 a, .home_column2 a, .home_column3 a{display: inline-block;font-size: 12px !important;letter-spacing: 1px !important;-webkit-border-radius: 3px !important;-moz-border-radius: 3px !important;border-radius: 3px !important;font-weight: 100 !important;font-family: inherit !important;text-transform: uppercase;background-color: #aaa;margin-left: 5% !important;color: #fff !important;padding: 5px 10px;
                                                   -webkit-transition: background-color 200ms linear;-moz-transition: background-color 200ms linear;-o-transition: background-color 200ms linear;-ms-transition: background-color 200ms linear;transition: background-color 200ms linear;}
 .home_column1 a:hover, .home_column2 a:hover, .home_column3 a:hover{background-color: #CCAC45;}
+.home_column1 a{background-image:url(/assets/images/ico_gallery-24.png);background-repeat:no-repeat;background-position:center;}
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
