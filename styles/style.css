@@ -128,6 +128,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .home_column1 a{background-image:url(/assets/images/ico_gallery-24.png);}
 .home_column2 a{background-image:url(/assets/images/ico_testimonials-24.png);}
 .home_column3 a{background-image:url(/assets/images/ico_video-24.png);}
+.Home_Columns .horizontalrule-block{display:none;}
 
 /*Blogs*/
 article{margin-bottom:50px;}
