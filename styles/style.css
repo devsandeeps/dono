@@ -120,7 +120,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .home_column1, .home_column2, .home_column3{float:left;width:30%;margin-left:5%;padding-top:30px!important;}
 .home_column1{margin-left:0px;}
 .Home_Columns .sqs-row{margin-top: 0px!important;}
-#block-af9c8556108d1a8a1189{background-color: #f2f2f2;padding: 1% !important;}
+#block-af9c8556108d1a8a1189{background-color: #f2f2f2;padding: 39px !important;max-width: 279px;margin: 0 auto;}
 
 /*Blogs*/
 article{margin-bottom:50px;}
