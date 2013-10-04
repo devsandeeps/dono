@@ -327,7 +327,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .followBox1, .followBox2, .followBox3, .followBox4{width:46%;margin-left:2%;}
    .followBox1,.followBox3{margin-left:1%;}
    #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{height: 0px;padding: 11px 0!important;}
-   .home_column1 a, .home_column2 a, .home_column3 a{bottom: -2px;}
+   .home_column1 a, .home_column2 a, .home_column3 a{bottom: -2px;width:auto!important;}
 }
 @media screen and (min-width: 740px) and (max-width: 940px)
 {
