@@ -171,6 +171,10 @@ h1.title a:hover{color: #CCAC46 !important;}
 .twentytwenty-container{margin-left:auto;margin-right:auto;}
 #block-721ec74e3f005247af7b p{margin:initial;padding:initial;background: none;max-width:100%;color:#000;text-align:left;}
 
+/*Before After - Inner Pages*/
+#page-5250d653e4b078f55072cfde .image-caption-wrapper{background: #000;margin: 0px;color: #fff;padding: 20px;text-transform: uppercase;}
+#page-5250d653e4b078f55072cfde .image-caption-wrapper p{font-size: 16px;text-align: center;}
+
 /*Follow US*/
 #block-b99a51d6c116e7b81b31 .image-wrapper{float:left;width:10%;}
 #page-524427e7e4b0a6b4ebabfbbf{font-family: 'ProximaNovaRegular';}
