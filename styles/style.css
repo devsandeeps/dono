@@ -34,7 +34,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .Address_Block{position:absolute;right:500px;top:13px;width:140px;height:90px;}
 .Search_Block{position:absolute;right:200px;top:13px;width:248px;height:90px;}
 .FollowUs_Block{position:absolute;right:0px;top:13px;width:181px;height:90px;}
-
+.BookConsult{position:fixed;z-index:999;right:10px;bottom:0px;width:200px;height:30px;background:url(/assets/images/BookConsult.png) no-repeat;}
 .Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
 
 #Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;background:url(/assets/images/Search_Play.png) no-repeat 200px 2px;border-right: 2px solid rgb(93, 93, 93);padding-right: 19px;}
