@@ -172,7 +172,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #block-721ec74e3f005247af7b p{margin:initial;padding:initial;background: none;max-width:100%;color:#000;text-align:left;}
 
 /*Before After - Inner Pages*/
-#page-5250d653e4b078f55072cfde p{font-family: "ProximaNovaLight";}
+#page-5250d653e4b078f55072cfde p{font-family: "ProximaNovaLight"!important;}
 #page-5250d653e4b078f55072cfde .image-caption-wrapper{background: #000;margin: 0px 0 20px 0;color: #fff;padding: 20px;text-transform: uppercase;}
 #page-5250d653e4b078f55072cfde .image-caption-wrapper p{font-size: 16px;text-align: center;}
 
