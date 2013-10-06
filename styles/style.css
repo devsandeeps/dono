@@ -172,19 +172,19 @@ h1.title a:hover{color: #CCAC46 !important;}
 #block-721ec74e3f005247af7b p{margin:initial;padding:initial;background: none;max-width:100%;color:#000;text-align:left;}
 
 /*Before After - Inner Pages*/
-#page-5250d653e4b078f55072cfde p, #page-5250dc98e4b0b242f8cc24ba p
+#page-5250d653e4b078f55072cfde p, #page-5250dc98e4b0b242f8cc24ba p,
 #page-5250dde3e4b05f3f0153dcbf p, #page-5250dc98e4b0b242f8cc24ba p
 {font-family: "ProximaNovaLight"!important;}
 
-#page-5250d653e4b078f55072cfde .sqs-block.image-block .intrinsic, #page-5250dc98e4b0b242f8cc24ba .sqs-block.image-block .intrinsic
+#page-5250d653e4b078f55072cfde .sqs-block.image-block .intrinsic, #page-5250dc98e4b0b242f8cc24ba .sqs-block.image-block .intrinsic,
 #page-5250dde3e4b05f3f0153dcbf .sqs-block.image-block .intrinsic, #page-5250dc98e4b0b242f8cc24ba .sqs-block.image-block .intrinsic
 {margin:0!important;}
 
-#page-5250d653e4b078f55072cfde .image-caption-wrapper, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper
+#page-5250d653e4b078f55072cfde .image-caption-wrapper, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper,
 #page-5250dde3e4b05f3f0153dcbf .image-caption-wrapper, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper
 {background: #000;margin: 0px 0 20px 0;color: #fff;padding: 20px;text-transform: uppercase;}
 
-#page-5250d653e4b078f55072cfde .image-caption-wrapper p, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper p
+#page-5250d653e4b078f55072cfde .image-caption-wrapper p, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper p,
 #page-5250dde3e4b05f3f0153dcbf .image-caption-wrapper p, #page-5250dc98e4b0b242f8cc24ba .image-caption-wrapper p
 {font-size: 16px;text-align: center;}
 
