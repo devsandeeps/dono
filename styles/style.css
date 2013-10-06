@@ -362,7 +362,6 @@ h1.title a:hover{color: #CCAC46 !important;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    .followBox1, .followBox2, .followBox3, .followBox4{width:46%;margin-left:2%;}
    .followBox1,.followBox3{margin-left:1%;}
-   .home_column1 a, .home_column2 a, .home_column3 a{bottom: -2px;width:auto!important;}
    .home_column1, .home_column2, .home_column3{float:none;width:100%;margin:0 auto;padding-top:30px!important;max-width:357px;}
 }
 @media screen and (min-width: 740px) and (max-width: 940px)
