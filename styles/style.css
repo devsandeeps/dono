@@ -134,6 +134,8 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .home_column3 a{background-image:url(/assets/images/ico_video-24.png);}
 .Home_Columns .horizontalrule-block{display:none;}
 
+/*Book a Consult*/
+#block-87bdbc5ca0bbb414628d{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
