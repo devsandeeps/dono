@@ -313,6 +313,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;}
    .FollowUs_Block p{display:none!important;}
    .header_wrapper {padding-top: 100px;}
+   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0;top:auto;margin-top:0px;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
    .Page_SideBar{display:none;}
