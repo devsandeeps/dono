@@ -282,6 +282,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .header_wrapper {padding-top: 100px;}
    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:30px;width:200px;background:url(/assets/images/BookConsultMobile.png) no-repeat;background-position: -0px -40px;}
    .BookConsult:after {background:url(/assets/images/BookConsultMobile.png) no-repeat;}
+   
    .PageContent_Content_Page{width:100%;padding:0;}
    .Page_SideBar{display:none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
@@ -316,6 +317,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .FollowUs_Block p{display:none!important;}
    .header_wrapper {padding-top: 100px;}
    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:30px;width:200px;background:url(/assets/images/BookConsultMobile.png) no-repeat;background-position: -0px -40px;}
+   .BookConsult:after {background:url(/assets/images/BookConsultMobile.png) no-repeat;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
    .Page_SideBar{display:none;}
