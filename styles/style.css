@@ -36,7 +36,8 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .FollowUs_Block{position:absolute;right:0px;top:13px;width:181px;height:90px;}
 .BookConsult{position:fixed;z-index:999;right:0px;top:50%;margin-top:-100px;height:200px;width:30px;background:url(/assets/images/BookConsult.png) no-repeat;background-position: -40px -0px;
              -webkit-transition: none;-moz-transition: none;-o-transition: none;transition: none;}
-.BookConsult:hover{background-position: -0px -0px;}
+.BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/BookConsult.png) no-repeat;background-position: -0px -0px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
+.BookConsult:hover:after {opacity: 1;}
 
 .Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
 
