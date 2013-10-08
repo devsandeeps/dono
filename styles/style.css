@@ -311,7 +311,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
    .Search_Block{display: block!important;top: 108px!important;width:155px!important;}
-   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;}
+   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;height: 40px;}
    .FollowUs_Block p{display:none!important;}
    .header_wrapper {padding-top: 100px;}
    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:30px;width:200px;background:url(/assets/images/BookConsultMobile.png) no-repeat;background-position: -0px -40px;}
