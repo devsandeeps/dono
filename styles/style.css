@@ -164,6 +164,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #div_PopUpContainer textarea{height:130px;padding:10px 2%;width:750px;color:#000;}
 #table_QuestionsList a{color:#000;}
 #table_QuestionsList td{color:#000;font-size:15px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
+#table_QuestionsList tr:hover{background:#acacac;}
 #ListFaqs h1{text-align:left;font-size:22px!important;background: #CCAC45!important;padding: 10px;color: #000;}
 #ListFaqs ul{list-style:none;margin-left:0px;margin-right:0px;padding:0px;}
 #ListFaqs ul li a{margin:10px 0;display:inline-block;width:100%;color:#000;font-size:17px;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
