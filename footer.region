@@ -1,5 +1,5 @@
 <!--FOOTER WITH OPEN BLOCK FIELD-->
-<a href="/book-a-consultant" class="BookConsult"></a>
+<a href="/book-a-consult" class="BookConsult"></a>
   <footer id="footer_wrapper">
     <div class="footer_content">
       <squarespace:block-field id="footer_Row1-Column1" columns="1"/>
