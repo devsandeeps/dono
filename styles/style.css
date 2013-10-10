@@ -143,6 +143,12 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .fsFieldFocused{background-color:inherit!important;}
 .fsForm .fsSubmit{background:none;}
 .fsForm #fsCell20418774{display:none;}
+.fsSubmit input.fsSubmitButton
+{display: inline-block;width: 75%;border: 0px;background: #000;color: #fff!important;text-align: center;padding: 5px;font-size: 21px;text-transform: uppercase;letter-spacing: 1px;}
+.fsSubmit input.fsSubmitButton:hover
+{background: #CCAC45!important;}
+
+
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit, .postBlogText{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
