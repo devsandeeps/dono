@@ -139,7 +139,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 #block-87bdbc5ca0bbb414628d{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 /*Blogs*/
 article{margin-bottom:50px;}
-article p, article .cit{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
+article p, article .cit, .postBlogText{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
 h1.title{font-size: 30px;}
 h1.title a{color:#000;}
 h1.title a:hover{color: #CCAC46 !important;}
@@ -148,6 +148,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 .Main_Blogs_Icon a:hover{color: #666 !important;}
 .Main_Blogs_Icon a .icon-list{display: inline-block;width: 1.25em;text-align: center;}
 .Main_Blogs_Icon a .icon-list:before {content: "\00ab";font-weight: normal;font-style: normal;display: inline-block;text-decoration: inherit;}
+.sqs-simple-like{float:right;}
+
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
