@@ -141,7 +141,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .fsForm{padding-top: 40px!important;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 .fsForm .fsRequiredMarker{color: #BEBEBE!important;}
 .fsFieldFocused{background:none;}
-.fsForm .fsSubmit{background-color:inherit!important;}
+.fsForm .fsSubmit{background-color:inherit!important;background-image: url(/assets/images/black-Linen-light.png) !important;}
 .fsForm #fsCell20418774{display:none;}
 .fsSubmit input.fsSubmitButton
 {display: inline-block;width: 75%;border: 0px;background: #000;color: #fff!important;text-align: center;padding: 5px;font-size: 21px;text-transform: uppercase;letter-spacing: 1px;
