@@ -140,7 +140,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 #block-87bdbc5ca0bbb414628d{display:none;}
 .fsForm{padding-top: 40px!important;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 .fsForm .fsRequiredMarker{color: #BEBEBE!important;}
-.fsFieldFocused{background:none;}
+.fsFieldFocused{background:none!important;}
 .fsForm .fsSubmit{background-color:inherit!important;background-image: url(/assets/images/black-Linen-light.png) !important;}
 .fsForm #fsCell20418774{display:none;}
 .fsSubmit input.fsSubmitButton
