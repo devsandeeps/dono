@@ -7,10 +7,10 @@
         <squarespace:block-field id="followBox1-block" columns="1" />
       </div>
       <div class="followBox2">
-        <squarespace:block-field id="followBox2-block" columns="1" />
+        <squarespace:block-field id="followBox3-block" columns="1" />
       </div>
       <div class="followBox3">
-        <squarespace:block-field id="followBox3-block" columns="1" />
+        <squarespace:block-field id="followBox2-block" columns="1" />
       </div>
       <div class="followBox4">
         <squarespace:block-field id="followBox4-block" columns="1" />
