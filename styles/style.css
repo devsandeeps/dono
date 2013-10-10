@@ -138,10 +138,10 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 /*Book a Consult*/
 #block-87bdbc5ca0bbb414628d{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 #block-87bdbc5ca0bbb414628d{display:none;}
-#fsForm1509587{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
-#fsForm1509587 .fsRequiredMarker{color: #BEBEBE!important;}
+.fsForm{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
+.fsForm .fsRequiredMarker{color: #BEBEBE!important;}
 .fsFieldFocused{background:none!important;}
-
+.fsForm .fsSubmit{background:none;}
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit, .postBlogText{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
