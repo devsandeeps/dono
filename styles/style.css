@@ -142,6 +142,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .fsForm .fsRequiredMarker{color: #BEBEBE!important;}
 .fsFieldFocused{background:none!important;}
 .fsForm .fsSubmit{background:none;}
+.fsForm #fsCell20418774{display:none;}
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit, .postBlogText{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
