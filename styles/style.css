@@ -148,7 +148,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
  -webkit-transition: background-color 200ms linear;-moz-transition: background-color 200ms linear;-o-transition: background-color 200ms linear;-ms-transition: background-color 200ms linear;transition: background-color 200ms linear;}
 .fsSubmit input.fsSubmitButton:hover
 {background: #CCAC45!important;}
-.fsForm .fsLabel{font-size:15px!important;}
+.fsForm span, .fsForm .fsLabel{font-size:15px!important;}
 .fsBody .fsLabel, .fsBody label{font-weight:normal!important;}
 
 /*Blogs*/
