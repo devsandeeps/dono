@@ -150,7 +150,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 {background: #CCAC45!important;}
 .fsForm span, .fsForm .fsLabel{font-size:15px!important;}
 .fsBody .fsLabel, .fsBody label{font-weight:normal!important;}
-
+.fsBody .fsSupporting{color: #E2E2E2!important;}
 /*Blogs*/
 article{margin-bottom:50px;}
 article p, article .cit, .postBlogText{line-height:25px;font-size:15px;font-weight:lighter;font-family: "ProximaNovaRegular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;}
