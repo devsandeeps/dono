@@ -138,7 +138,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 /*Book a Consult*/
 #block-87bdbc5ca0bbb414628d{padding: 20px;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 #block-87bdbc5ca0bbb414628d{display:none;}
-.fsForm{font-size:15px;padding-top: 40px!important;color: #BEBEBE;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
+.fsForm{font-size:15px!important;padding-top: 40px!important;color: #E2E2E2;background-image: url(/assets/images/black-Linen-light.png) !important;font-family: "ProximaNovaRegular";}
 .fsForm .fsRequiredMarker{color: #BEBEBE!important;}
 .fsFieldFocused{background:none!important;}
 .fsForm .fsSubmit{background-color:inherit!important;background-image: url(/assets/images/black-Linen-light.png) !important;}
@@ -148,7 +148,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
  -webkit-transition: background-color 200ms linear;-moz-transition: background-color 200ms linear;-o-transition: background-color 200ms linear;-ms-transition: background-color 200ms linear;transition: background-color 200ms linear;}
 .fsSubmit input.fsSubmitButton:hover
 {background: #CCAC45!important;}
-.fsForm .fsLabel{font-size:15px;}
+.fsForm .fsLabel{font-size:15px!important;}
 
 
 /*Blogs*/
