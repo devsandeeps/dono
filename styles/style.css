@@ -149,7 +149,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .fsSubmit input.fsSubmitButton:hover
 {background: #CCAC45!important;}
 .fsForm .fsLabel{font-size:15px!important;}
-.fsBody .fsLabel, .fsBody label{font-weight:normal;}
+.fsBody .fsLabel, .fsBody label{font-weight:normal!important;}
 
 /*Blogs*/
 article{margin-bottom:50px;}
