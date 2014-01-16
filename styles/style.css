@@ -66,8 +66,8 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .div_MainNavigation_Web ul.folder-parent li ul{z-index:99999;text-align: left !important;position:absolute!important;top:35px;left:-60px;width: auto !important;min-height: 150px;padding: 30px 20px 30px 210px !important;background-color: #222 !important;border: 1px solid #555;-webkit-box-shadow: 0px 4px 8px rgba(50, 50, 50, 0.6);-moz-box-shadow: 0px 4px 8px rgba(50, 50, 50, 0.6);box-shadow: 0px 4px 8px rgba(50, 50, 50, 0.6);position: relative;border-top:0px;}
 .div_MainNavigation_Web ul.folder-parent li:nth-child(2) ul{left: 0px;background:url(/assets/images/menuPopPatientEdu.jpg) no-repeat 20px 71px;}
 .div_MainNavigation_Web ul.folder-parent li:nth-child(3) ul{left: 0px;background:url(/assets/images/menuPopPractice.jpg) no-repeat 20px 71px;}
-.div_MainNavigation_Web ul.folder-parent li:nth-child(4) ul{right: 0px;left:initial;background:url(/assets/images/menu_folderimg-testimony.jpg) no-repeat 20px 71px;}
-.div_MainNavigation_Web ul.folder-parent li:nth-child(5) ul{right:0px;left:initial;background:url(/assets/images/menu_folderimg-faq.jpg) no-repeat 20px 71px;}
+.div_MainNavigation_Web ul.folder-parent li:nth-child(4) ul{right: 0px;left:initial;background:url(/assets/images/menu_for_men.jpg) no-repeat 20px 71px;}
+.div_MainNavigation_Web ul.folder-parent li:nth-child(5) ul{right:0px;left:initial;background:url(/assets/images/menu_for_women.jpg) no-repeat 20px 71px;}
 .div_MainNavigation_Web ul.folder-parent li:nth-child(6) ul{right:0px;left:initial;background:url(/assets/images/menuPopResearchPub.jpg) no-repeat 20px 71px;}
 .div_MainNavigation_Web ul.folder-parent li:nth-child(7) ul{right:0px;left:initial;background:url(/assets/images/menu_folderimg-blog.jpg) no-repeat 20px 71px;}
 .div_MainNavigation_Web ul.folder-parent li ul a{border:0px!important;font-size:15px;display: block;white-space: nowrap;background: url(/assets/images/SubMenu.png) no-repeat 0px 10px !important;padding-left:20px;}
@@ -127,6 +127,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 #block-25f3c555022f01fe816a, #block-34ed0362730f9aa6e9c0, #block-0c4c970c24d326293e35{margin-top:20px;font-size:13px;}
 #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{background-color: #f2f2f2;padding: 30px !important;margin: 0 17px;height:230px;}
 #block-af9c8556108d1a8a1189 p, #block-3a3c72f999766240af81 p, #block-3cb4817bc3b5539ee8ad p{margin:0px;padding:0px;}
+#block-a462d5f278d91ebe2078{padding-top:0px;}
 .home_column1 a, .home_column2 a, .home_column3 a{position:absolute;bottom:20px;left: 0;right: 0;margin: auto!important;width: 120px;background-repeat:no-repeat;background-position:10px 10px;display: inline-block;font-size: 12px !important;-webkit-border-radius: 3px !important;-moz-border-radius: 3px !important;border-radius: 3px !important;font-weight: 100 !important;font-family: sans-serif!important;font-weight:bold!important;text-transform: uppercase;background-color: #535353  ;color: #fff !important;padding: 10px 10px 10px 35px;
                                                   -webkit-transition: background-color 200ms linear;-moz-transition: background-color 200ms linear;-o-transition: background-color 200ms linear;-ms-transition: background-color 200ms linear;transition: background-color 200ms linear;}
 .home_column1 a:hover, .home_column2 a:hover, .home_column3 a:hover{background-color: #CCAC45;}
