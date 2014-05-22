@@ -89,7 +89,8 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 #home_Slider_block h1{color: #CCAC45;font-size: 40px;line-height:1.9;font-weight: 100 !important;font-family: "jubilat", serif !important;font-style: italic !important;letter-spacing: 2px;text-shadow: 0px -1px 1px #000000;}
 #home_Slider_block .sqs-row{margin-top:0px!important;margin-bottom:0px!important;padding-top:0px!important;padding-bottom:0px!important;}
 #block-ebbd064d712819518da4 .slide{opacity:0;-webkit-transition: opacity 1.8s ease-out,z-index 3s ease-in, visibility 1.8s ease-in!important;-moz-transition: opacity 1.8s ease-in,z-index 3s ease-in,visibility 1.8s ease-in !important;-o-transition: opacity 1.8s ease-in, z-index 3s ease-in, visibility 1.8s ease-in !important;transition: opacity 1.8s ease-in, z-index 3s ease-in, visibility 1.8s ease-in!important;
--webkit-backface-visibility: hidden;}
+-webkit-backface-visibility: hidden;
+-webkit-transform:translateZ(0);}
 #block-ebbd064d712819518da4 .meta{display:block!important;max-width:550px;padding:35px;position: absolute;top: 35px;left: 90px!important;
                                   background:initial;background-color: #111;background-color: rgba(0,0,0,0.3);}
 
