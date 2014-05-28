@@ -414,7 +414,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .followBox1,.followBox3{margin-left:1%;}
    .home_column1, .home_column2, .home_column3{float:none;width:100%;margin:0 auto;padding-top:30px!important;max-width:357px;}
 }
-@media screen and (min-width: 740px) and (max-width: 940px)
+@media screen and (min-width: 740px) and (max-width: 1000px)
 {
     .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    .Address_Block {right: 90px;top: 56px;width: 190px;}
