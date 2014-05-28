@@ -289,13 +289,6 @@ h1.title a:hover{color: #CCAC46 !important;}
 /* iPhone Portrait */
 @media screen and (max-width: 480px) and (orientation:portrait) 
 {
-    
-    .header_wrapper{padding-top:0px!important;}
-    .header_Fixed{position: relative;}
-    .Logo_Block h1{margin:0!important;}
-    .Logo_Block img{margin-top:20px;}
-  
-   .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none!important;}
    .Search_Block{display:none!important;}
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
@@ -324,12 +317,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 @media screen and (max-width: 480px) and (orientation:landscape) 
 {
     
-    .header_wrapper{padding-top:0px!important;}
-    .header_Fixed{position: relative;}
-    .Logo_Block h1{margin:0!important;}
-    .Logo_Block img{margin-top:20px;}
-   
-   .Logo_Block{position: relative;text-align: center;}
+    
    .Address_Block{display:none!important;}
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
@@ -404,6 +392,12 @@ h1.title a:hover{color: #CCAC46 !important;}
 /*Browser Resize*/
 @media screen and (max-width: 599px)
 {
+  .header_wrapper{padding-top:0px!important;}
+    .header_Fixed{position: relative;}
+    .Logo_Block h1{margin:0!important;}
+    .Logo_Block img{margin-top:20px;}
+   .Logo_Block{position: relative;text-align: center;}
+   
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
   .Address_Block{display: none;}
