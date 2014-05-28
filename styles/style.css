@@ -33,7 +33,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .Logo_Block{position:absolute;}
 .Address_Block{position:absolute;right:330px;top:13px;width:140px;height:90px;}
 .Search_Block{position:absolute;right:200px;top:13px;width:248px;height:90px;}
-.FollowUs_Block{position:absolute;right:0px;top:13px;width:281px;height:90px;}
+.FollowUs_Block{position:absolute;right:100px;top:13px;width:181px;height:90px;}
 .BookConsult{position:absolute;right:500px;top:13px;height:32px;width:202px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -0px;
              -webkit-transition: none;-moz-transition: none;-o-transition: none;transition: none;}
 .BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -42px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
