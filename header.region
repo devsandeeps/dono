@@ -33,8 +33,7 @@
 					<squarespace:block-field id="Header_Search_Block" columns="1"/>
 				</div>
 				<div class="FollowUs_Block">
-					<a href="/follow-us" class="Follow_Us"></a><br/>
-					<p><a href="/contact-us">Contact Us</a></p>
+					<a href="/follow-us" class="Follow_Us"></a>
 				</div>
 				<div class="clr"></div>
 		</div>
