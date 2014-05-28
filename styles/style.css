@@ -406,7 +406,6 @@ h1.title a:hover{color: #CCAC46 !important;}
 /*Browser Resize*/
 @media screen and (max-width: 599px)
 {
-       .Address_Block {display:none;}
    .Search_Block{display: none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    .Page_SideBar{display:none;}
@@ -416,13 +415,14 @@ h1.title a:hover{color: #CCAC46 !important;}
 }
 @media screen and (min-width: 600px) and (max-width: 739px)
 {
-   .Address_Block {display:none;}
+   .Address_Block {display:block;}
    .Search_Block{display: block;width:105px;right:190px;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px;background:none;padding-right:0px;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
    .followBox1, .followBox2, .followBox3, .followBox4{width:46%;margin:20px 0 20px 2%;}
    .followBox1,.followBox3{margin-left:1%;}
    .home_column1, .home_column2, .home_column3{float:none;width:100%;margin:0 auto;padding-top:30px!important;max-width:357px;}
+
 }
 @media screen and (min-width: 740px) and (max-width: 1000px)
 {
