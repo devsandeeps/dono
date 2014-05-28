@@ -348,9 +348,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
-   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;height: 40px;}
-   .FollowUs_Block p{display:none!important;}
-
+   
    #block-ebbd064d712819518da4 .meta{padding:15px;max-width:380px;max-height:200px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
@@ -397,9 +395,13 @@ h1.title a:hover{color: #CCAC46 !important;}
     .Logo_Block h1{margin:0!important;}
     .Logo_Block img{margin-top:20px;}
    .Logo_Block{position: relative;text-align: center;}
-   
+
    .div_MainNavigation_MobileIpad{display:block;}
    .div_MainNavigation_Web{display:none;}
+
+   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;height: 40px;}
+   .FollowUs_Block p{display:none!important;}
+   
   .Address_Block{display: none;}
    .Search_Block{display: none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
