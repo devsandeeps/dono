@@ -294,15 +294,13 @@ h1.title a:hover{color: #CCAC46 !important;}
     .header_Fixed{position: relative;}
     .Logo_Block h1{margin:0!important;}
     .Logo_Block img{margin-top:20px;}
-   .div_MainNavigation_MobileIpad{display:block;}
-   .div_MainNavigation_Web{display:none;}
+  
    .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none!important;}
    .Search_Block{display:none!important;}
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
-   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;}
-   .FollowUs_Block p{display:none!important;}
+   
    .header_wrapper {padding-top: 100px;}
    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:32px;width:202px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -42px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
@@ -330,15 +328,13 @@ h1.title a:hover{color: #CCAC46 !important;}
     .header_Fixed{position: relative;}
     .Logo_Block h1{margin:0!important;}
     .Logo_Block img{margin-top:20px;}
-   .div_MainNavigation_MobileIpad{display:block;}
-   .div_MainNavigation_Web{display:none;}
+   
    .Logo_Block{position: relative;text-align: center;}
    .Address_Block{display:none!important;}
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
    .Search_Block{display: block!important;top: 108px!important;width:155px!important;}
-   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;height: 40px;}
-   .FollowUs_Block p{display:none!important;}
+  
    .header_wrapper {padding-top: 100px;}
    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:32px;width:202px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -42px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
@@ -364,7 +360,9 @@ h1.title a:hover{color: #CCAC46 !important;}
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
    .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
-   
+   .FollowUs_Block{display: block!important;top: 108px!important;right:17px!important;height: 40px;}
+   .FollowUs_Block p{display:none!important;}
+
    #block-ebbd064d712819518da4 .meta{padding:15px;max-width:380px;max-height:200px;}
    #block-ebbd064d712819518da4 .meta-title {font-size: 30px;}
    #block-ebbd064d712819518da4 .meta-description{font-size: 16px !important;}
@@ -406,6 +404,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 /*Browser Resize*/
 @media screen and (max-width: 599px)
 {
+   .div_MainNavigation_MobileIpad{display:block;}
+   .div_MainNavigation_Web{display:none;}
   .Address_Block{display: none;}
    .Search_Block{display: none;}
    #block-ebbd064d712819518da4 .meta{display:none!important;}
