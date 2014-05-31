@@ -39,7 +39,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
 .BookConsult:hover:after {opacity: 1;}
 
-.Address_Block p{color: #aaa;font-size:16px;line-height:21px;margin:0px;padding:0px;}
+.Address_Block p{color: #aaa;font-size:14px;line-height:21px;margin:0px;padding:0px;}
 
 #Header_Search_Block .sqs-search-ui-button-wrapper{background-color:#423d3d;background:url(/assets/images/Search_Play.png) no-repeat 200px 2px;border-right: 2px solid rgb(93, 93, 93);padding-right: 19px;}
 #Header_Search_Block .title{padding: 4px 12px 4px 45px;color: #aaa;border-color:#535353;background:url(/assets/images/searchIcon.png) no-repeat 15px 50%;background-position: 5px 4px;
