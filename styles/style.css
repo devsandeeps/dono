@@ -36,7 +36,7 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .FollowUs_Block{position:absolute;right:100px;top:13px;width:181px;height:90px;}
 .BookConsult{position:absolute;right:515px;top:13px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -0px;
              -webkit-transition: none;-moz-transition: none;-o-transition: none;transition: none;}
-.BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
+.BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
 .BookConsult:hover:after {opacity: 1;}
 
 .Address_Block p{color: #fff;font-size:14px;line-height:21px;margin:0px;padding:0px;}
@@ -295,7 +295,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
    
    .header_wrapper {padding-top: 100px;}
-   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;}
+   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
    
    .PageContent_Content_Page{width:100%;padding:0;}
@@ -324,7 +324,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .Search_Block{display: block!important;top: 108px!important;width:155px!important;}
   
    .header_wrapper {padding-top: 100px;}
-   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;}
+   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
    
    
@@ -362,7 +362,7 @@ h1.title a:hover{color: #CCAC46 !important;}
     #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{height:240px!important;padding: 10px !important;}
     .home_column1, .home_column2, .home_column3{float:none;width:100%;margin:0 auto;padding-top:30px!important;max-width:357px;}
 
-    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;}
+    .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
    
 }
@@ -382,7 +382,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .followBox1,.followBox3{margin-left:1%;}
    #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{height:340px;}
 
-   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;}
+   .BookConsult{position:fixed;z-index:999;right:0px;bottom:0px;top:auto;margin-top:0px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -37px;}
    .BookConsult:after {background:url(/assets/images/img_bookConsult_strip.png) no-repeat;}
    
 }
