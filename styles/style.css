@@ -390,6 +390,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 /*Browser Resize*/
 @media screen and (max-width: 599px)
 {
+  .home_Slider_SlideShow_wrapper{margin-top: 0px;}
   .header_wrapper{padding-top:0px!important;}
     .header_Fixed{position: relative;}
     .Logo_Block h1{margin:0!important;}
