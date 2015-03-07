@@ -168,6 +168,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 .sqs-simple-like{float:right;}
 .collection-type-blog.view-item .postBlogText{display:block;}
 .collection-type-blog.view-list .postBlogText{display:none;}
+#blogs-left{float: left;width: 75%;}
+#blogs-right{float: right;width: 75%;}
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
