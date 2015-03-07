@@ -171,7 +171,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 #blogs-left{float: left;width: 75%;}
 #blogs-right{float: right;width: 25%;}
 #block-e4e0dadefe5b6950665a, #block-yui_3_17_2_2_1425721479999_9905{margin-bottom: 10px;margin-top: 20px;padding-top: 0!important;padding-bottom: 0px!important;}
-#blogs-right hr{padding-top: 0!important;padding-bottom: 0px!important;}
+#blogs-right .horizontalrule-block {padding-top: 0!important;padding-bottom: 0px!important;}
+#blogs-right hr{margin: 0 auto!important;}
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
