@@ -141,5 +141,5 @@
 {.end}
 </div>
 <div id="blogs-right">
-     <squarespace:block-field id="home_Sidebar_block" columns="1"/>
+     <squarespace:block-field id="block-blogs-right" columns="1"/>
 </div>
