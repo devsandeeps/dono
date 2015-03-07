@@ -1,4 +1,4 @@
-<div id="blogs-left">
+<div id="blogs-left" class="box-sizing">
 <!-- CATEGORY FILTER RESULTS ex: http://base-template.squarespace.com/blog/?category=category1 -->
 <h1>Hair Blogs</h1>
 {.section categoryFilter}
@@ -140,7 +140,9 @@
   </nav>
 {.end}
 </div>
-<div id="blogs-right">
+<div id="blogs-right" class="box-sizing">
+  <div class="Page_SideBar">
      <squarespace:block-field id="block-blogs-right" columns="1"/>
+  </div>
 </div>
 <div class="clr"></div>
