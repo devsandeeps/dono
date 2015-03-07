@@ -1,4 +1,4 @@
-
+<div id="blogs-left">
 <!-- CATEGORY FILTER RESULTS ex: http://base-template.squarespace.com/blog/?category=category1 -->
 <h1>Hair Blogs</h1>
 {.section categoryFilter}
@@ -139,3 +139,7 @@
 
   </nav>
 {.end}
+</div>
+<div id="blogs-right">
+     <squarespace:block-field id="home_Sidebar_block" columns="1"/>
+</div>
