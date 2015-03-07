@@ -143,3 +143,4 @@
 <div id="blogs-right">
      <squarespace:block-field id="block-blogs-right" columns="1"/>
 </div>
+<div class="clr"></div>
