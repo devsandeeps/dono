@@ -173,7 +173,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #block-e4e0dadefe5b6950665a, #block-yui_3_17_2_2_1425721479999_9905{margin-bottom: 10px;margin-top: 20px;padding-top: 0!important;padding-bottom: 0px!important;}
 #blogs-right .horizontalrule-block {padding-top: 0!important;padding-bottom: 0px!important;}
 #blogs-right hr{margin: 0 auto!important;}
-#blogs-right a{color: #555;}
+#blogs-right a{color: #555;font-weight: lighter;font-family: "ProximaNovaRegular","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;}
 #blogs-right a:hover{color:#ccac46;}
 #blogs-right h2{font-family: "ProximaNovaLight","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;font-size: 18px!important;text-transform: uppercase;font-weight: 100;text-align: center;}
 #blogs-right .newsletter-form-wrapper{background: none;padding: 0;margin-top: 20px;}
