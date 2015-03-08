@@ -175,8 +175,8 @@ h1.title a:hover{color: #CCAC46 !important;}
 #blogs-right hr{margin: 0 auto!important;}
 #blogs-right a{color: #555;}
 #blogs-right a:hover{color:#ccac46;}
-#blogs-right h2{font-family: "ProximaNovaLight","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;font-size: 18px!important;text-transform: uppercase;font-weight: 100;}
-#blogs-right .newsletter-form-wrapper{background: none;padding: 0;}
+#blogs-right h2{font-family: "ProximaNovaLight","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif !important;font-size: 18px!important;text-transform: uppercase;font-weight: 100;text-align: center;}
+#blogs-right .newsletter-form-wrapper{background: none;padding: 0;margin-top: 20px;}
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
