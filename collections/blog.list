@@ -142,9 +142,6 @@
 </div>
 <div id="blogs-right" class="box-sizing">
   <div class="Page_SideBar">
-     <squarespace:block-field id="block-blogs-right-form" columns="1"/>
-  </div>
-  <div class="Page_SideBar">
      <squarespace:block-field id="block-blogs-right" columns="1"/>
   </div>
 </div>
