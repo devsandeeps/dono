@@ -64,18 +64,18 @@
 
     {postItemInjectCode}    
 
-    <!--CATEGORIES-->
+    <!--CATEGORIES
 
     {.repeated section categories}
       <a class="category" href="?category={@|url-encode}">{@}</a>{.alternates with},
     {.end}
 
-    <!--TAGS-->
+   
 
     {.repeated section tags}
       <a class="tag" href="?tag={@|url-encode}">{@}</a>{.alternates with},
     {.end}
-
+-->
 <div class="ShareThisBlock">
     <div class="ShareThis_Title">Share This </div>
 
