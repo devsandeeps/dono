@@ -179,6 +179,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 #blogs-right .newsletter-form-wrapper{background: none;padding: 0;margin-top: 20px;}
 #blogs-right input, #blogs-right .newsletter-form-button-label{font-family: 'Helvetica Neue', Arial, 'Lucida Grande', Tahoma, Verdana, sans-serif!important;}
 #blogs-right input, #blogs-right button{padding: 0.3em 1em;}
+#blogs-right .count{display: inline-block;}
 
 /*All Faqs Code and CSS*/
 #AskQuestionForm{width:90%;margin:0 auto;max-width:600px;}
