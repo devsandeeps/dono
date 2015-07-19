@@ -302,7 +302,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 /* iPhone Portrait */
 @media screen and (max-width: 480px) and (orientation:portrait) 
 {
-   .Address_Block,.Address_Block_@{display:none!important;}
+   .Address_Block,.Address_Block_2{display:none!important;}
    .Search_Block{display:none!important;}
    .Address_Block_2 .sqs-block,.Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
@@ -331,7 +331,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 {
     
     
-   .Address_Block,.Address_Block_@{display:none!important;}
+   .Address_Block,.Address_Block_2{display:none!important;}
    .Address_Block_2 .sqs-block,.Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    #Header_Search_Block .sqs-search-ui-button-wrapper{border:0px!important;}
    .Search_Block{display: block!important;top: 108px!important;width:155px!important;}
@@ -360,7 +360,7 @@ h1.title a:hover{color: #CCAC46 !important;}
 /* iPad Portrait */
 @media screen and (min-width: 481px) and (max-width: 1024px) and  (orientation:portrait) 
 {
-   .Address_Block_@ .sqs-block, .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
+   .Address_Block_2 .sqs-block, .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
    .Address_Block_2{  right: 293px;  width: 255px;}
 
    #block-ebbd064d712819518da4 .meta{padding:15px;max-width:380px;max-height:200px;}
