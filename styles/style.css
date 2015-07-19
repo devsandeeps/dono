@@ -31,10 +31,11 @@ hr{border-top:1px dotted #9b9b9b;height:0px;border-bottom: 0px;}
 .header_Fixed{position: fixed;top: 0px;height: 100px;background: #222;left: 0;width: 100%;margin: auto;z-index: 1000;-webkit-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);-moz-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.75);}
 .header_Fixed_content{max-width:1280px;width:100%;margin:0 auto;position:relative;}
 .Logo_Block{position:absolute;}
+.Address_Block_2{position:absolute;right:525px;top:13px;width:130px;height:90px;}
 .Address_Block{position:absolute;right:322px;top:13px;width:130px;height:90px;}
 .Search_Block{position:absolute;right:200px;top:13px;width:248px;height:90px;}
 .FollowUs_Block{position:absolute;right:100px;top:13px;width:181px;height:90px;}
-.BookConsult{position:absolute;right:525px;top:13px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -0px;
+.BookConsult{position:absolute;right:725px;top:13px;height:29px;width:180px;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -0px;
              -webkit-transition: none;-moz-transition: none;-o-transition: none;transition: none;}
 .BookConsult:after {content: "";position: absolute;top: 0; left: 0; bottom: 0; right: 0;background:url(/assets/images/img_bookConsult_strip.png) no-repeat;background-position: -0px -39px;opacity: 0;-webkit-transition: opacity 0.5s;-moz-transition:    opacity 0.5s;-o-transition:      opacity 0.5s;}
 .BookConsult:hover:after {opacity: 1;}
