@@ -440,13 +440,13 @@ h1.title a:hover{color: #CCAC46 !important;}
 }
 @media screen and (min-width: 740px) and (max-width: 1000px)
 {
-  .Address_Block_2{  right: 293px;  width: 255px;}
+  .Address_Block_2{  right: 184px;  width: 255px;}
     .Address_Block .sqs-block, .Search_Block .sqs-block{padding:0px!important;}
-   .Address_Block {right: 90px;top: 56px;width: 190px;}
+   .Address_Block {right: 12px;top: 56px;width: 190px;}
    .followBox1, .followBox2, .followBox3, .followBox4{width:46%;margin-left:20px 0 20px 2%;}
    .followBox1,.followBox3{margin-left:1%;}
    #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{height:400px;padding: 10px !important;}
-   
+   .FollowUs_Block{right:20px;}
    
 }
 @media screen and (max-width: 768px)
