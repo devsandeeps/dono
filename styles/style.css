@@ -447,7 +447,7 @@ h1.title a:hover{color: #CCAC46 !important;}
    .followBox1,.followBox3{margin-left:1%;}
    #block-af9c8556108d1a8a1189, #block-3a3c72f999766240af81, #block-3cb4817bc3b5539ee8ad{height:400px;padding: 10px !important;}
    .FollowUs_Block{right:20px;}
-   
+   .header_Fixed{height:125px;}
 }
 @media screen and (max-width: 768px)
 {
