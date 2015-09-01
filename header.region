@@ -32,7 +32,7 @@
 				<div class="Address_Block">
 					<squarespace:block-field id="Header_Address_Block" columns="1"/>
 				</div>
-				<a href="/contact" class="BookConsult"></a>
+				<a href="/contact" class="BookConsult BC"></a>
 				<!--<div class="Search_Block">
 					<squarespace:block-field id="Header_Search_Block" columns="1"/>
 				</div>--> 
